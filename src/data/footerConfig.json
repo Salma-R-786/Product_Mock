@@ -1,3 +1,48 @@
 {
-
+    "customer_care": [
+        {
+            "label": "Contact Us",
+            "link": "/contact"
+        },
+        {
+            "label": "Track Order",
+            "link": "/track-order"
+        },
+        {
+            "label": "Shipping & Returns",
+            "link": "/shipping"
+        },
+        {
+            "label": "FAQ",
+            "link": "/faq"
+        },
+        {
+            "label": "Locate Us",
+            "link": "/locate"
+        }
+    ],
+    "legal": [
+        {
+            "label": "Privacy Policy",
+            "link": "/privacy"
+        },
+        {
+            "label": "Terms of Service",
+            "link": "/terms"
+        }
+    ],
+    "social": [
+        {
+            "platform": "Instagram",
+            "link": "#"
+        },
+        {
+            "platform": "Facebook",
+            "link": "https://www.facebook.com/profile.php?id=61584802930474"
+        },
+        {
+            "platform": "Youtube",
+            "link": "https://www.youtube.com/@AsmaGoldEssence"
+        }
+    ]
 }
