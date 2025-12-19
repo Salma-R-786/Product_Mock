@@ -1,962 +1,1806 @@
-[
-  {
-    "id": "prod1766150006450899",
-    "name": "Modern Chain Bracelets 29",
-    "category": "Bracelets",
-    "price": 24382,
-    "status": "published",
-    "updated_at": "2025-12-19T13:13:31.945Z"
-  },
-  {
-    "id": "prod1766150011946558",
-    "name": "Classic Septum 47",
-    "category": "Nose Pins",
-    "price": 58142,
-    "status": "published",
-    "updated_at": "2025-12-19T13:13:34.511Z"
-  },
-  {
-    "id": "prod1766150014511158",
-    "name": "Modern Engagement 21",
-    "category": "Rings",
-    "price": 80818,
-    "status": "published",
-    "updated_at": "2025-12-19T13:13:36.997Z"
-  },
-  {
-    "id": "prod1766150016997829",
-    "name": "Modern Engagement 75",
-    "category": "Rings",
-    "price": 97259,
-    "status": "published",
-    "updated_at": "2025-12-19T13:13:39.289Z"
-  },
-  {
-    "id": "prod1766150019289812",
-    "name": "Vintage Tennis Bracelets 29",
-    "category": "Bracelets",
-    "price": 12376,
-    "status": "published",
-    "updated_at": "2025-12-19T13:13:45.880Z"
-  },
-  {
-    "id": "prod1766150025880889",
-    "name": "Modern Wedding 42",
-    "category": "Rings",
-    "price": 34716,
-    "status": "published",
-    "updated_at": "2025-12-19T13:13:48.660Z"
-  },
-  {
-    "id": "prod1766150028660110",
-    "name": "Luxury Simple 46",
-    "category": "Anklets",
-    "price": 59591,
-    "status": "published",
-    "updated_at": "2025-12-19T13:13:53.474Z"
-  },
-  {
-    "id": "prod1766150033474175",
-    "name": "Vintage Engagement 79",
-    "category": "Rings",
-    "price": 66329,
-    "status": "published",
-    "updated_at": "2025-12-19T13:13:55.560Z"
-  },
-  {
-    "id": "prod1766150035560926",
-    "name": "Modern Chokers 80",
-    "category": "Necklaces",
-    "price": 38882,
-    "status": "published",
-    "updated_at": "2025-12-19T13:14:02.483Z"
-  },
-  {
-    "id": "prod1766150042483618",
-    "name": "Elegant Chandbali 48",
-    "category": "Earrings",
-    "price": 27197,
-    "status": "published",
-    "updated_at": "2025-12-19T13:14:05.861Z"
-  },
-  {
-    "id": "prod1766150045861898",
-    "name": "Classic Drops & Danglers 62",
-    "category": "Earrings",
-    "price": 33189,
-    "status": "published",
-    "updated_at": "2025-12-19T13:14:18.470Z"
-  },
-  {
-    "id": "prod1766150058470383",
-    "name": "Modern Chains 79",
-    "category": "Necklaces",
-    "price": 76779,
-    "status": "published",
-    "updated_at": "2025-12-19T13:14:21.352Z"
-  },
-  {
-    "id": "prod1766150061352291",
-    "name": "Elegant Layered 39",
-    "category": "Necklaces",
-    "price": 44911,
-    "status": "published",
-    "updated_at": "2025-12-19T13:14:23.785Z"
-  },
-  {
-    "id": "prod1766150063785756",
-    "name": "Elegant Kadas 76",
-    "category": "Bangles",
-    "price": 18677,
-    "status": "published",
-    "updated_at": "2025-12-19T13:14:27.358Z"
-  },
-  {
-    "id": "prod1766150067358903",
-    "name": "Luxury Chain Bracelets 79",
-    "category": "Bracelets",
-    "price": 92855,
-    "status": "published",
-    "updated_at": "2025-12-19T13:14:35.430Z"
-  },
-  {
-    "id": "prod1766150075430893",
-    "name": "Elegant Simple 94",
-    "category": "Anklets",
-    "price": 37289,
-    "status": "published",
-    "updated_at": "2025-12-19T13:14:43.892Z"
-  },
-  {
-    "id": "prod1766150083892269",
-    "name": "Vintage Modern 33",
-    "category": "Bangles",
-    "price": 74225,
-    "status": "published",
-    "updated_at": "2025-12-19T13:14:48.828Z"
-  },
-  {
-    "id": "prod1766150088828218",
-    "name": "Classic Mangalsutra 69",
-    "category": "Necklaces",
-    "price": 59383,
-    "status": "published",
-    "updated_at": "2025-12-19T13:14:51.720Z"
-  },
-  {
-    "id": "prod1766150091720653",
-    "name": "Luxury Simple 62",
-    "category": "Anklets",
-    "price": 83886,
-    "status": "published",
-    "updated_at": "2025-12-19T13:14:53.540Z"
-  },
-  {
-    "id": "prod1766150093540846",
-    "name": "Modern Chain Bracelets 24",
-    "category": "Bracelets",
-    "price": 53269,
-    "status": "published",
-    "updated_at": "2025-12-19T13:14:55.537Z"
-  },
-  {
-    "id": "prod1766150095537586",
-    "name": "Elegant Studs 73",
-    "category": "Earrings",
-    "price": 22374,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:00.918Z"
-  },
-  {
-    "id": "prod1766150100918690",
-    "name": "Elegant Chain Bracelets 12",
-    "category": "Bracelets",
-    "price": 48175,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:05.407Z"
-  },
-  {
-    "id": "prod1766150105407812",
-    "name": "Vintage Drops & Danglers 100",
-    "category": "Earrings",
-    "price": 29101,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:08.199Z"
-  },
-  {
-    "id": "prod1766150108199950",
-    "name": "Modern Engagement 39",
-    "category": "Rings",
-    "price": 99302,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:11.022Z"
-  },
-  {
-    "id": "prod1766150111022918",
-    "name": "Vintage Kadas 51",
-    "category": "Bangles",
-    "price": 29089,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:15.475Z"
-  },
-  {
-    "id": "prod1766150115475469",
-    "name": "Elegant Sui Dhaga 14",
-    "category": "Earrings",
-    "price": 94893,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:18.487Z"
-  },
-  {
-    "id": "prod1766150118487384",
-    "name": "Luxury Solitaire 71",
-    "category": "Rings",
-    "price": 85939,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:21.586Z"
-  },
-  {
-    "id": "prod1766150121586290",
-    "name": "Classic Simple 78",
-    "category": "Anklets",
-    "price": 92676,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:24.705Z"
-  },
-  {
-    "id": "prod1766150124705677",
-    "name": "Modern Tennis Bracelets 27",
-    "category": "Bracelets",
-    "price": 51303,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:28.539Z"
-  },
-  {
-    "id": "prod1766150128539694",
-    "name": "Elegant Charm Bracelets 21",
-    "category": "Bracelets",
-    "price": 35101,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:30.957Z"
-  },
-  {
-    "id": "prod1766150130957306",
-    "name": "Elegant Simple 71",
-    "category": "Anklets",
-    "price": 89632,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:33.477Z"
-  },
-  {
-    "id": "prod1766150133477857",
-    "name": "Vintage Chokers 19",
-    "category": "Necklaces",
-    "price": 41722,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:35.908Z"
-  },
-  {
-    "id": "prod1766150135908815",
-    "name": "Luxury Chain Bracelets 91",
-    "category": "Bracelets",
-    "price": 91172,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:38.407Z"
-  },
-  {
-    "id": "prod1766150138407345",
-    "name": "Luxury Jhumkas 49",
-    "category": "Earrings",
-    "price": 77699,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:44.761Z"
-  },
-  {
-    "id": "prod1766150144761831",
-    "name": "Modern Traditional Heavy 51",
-    "category": "Anklets",
-    "price": 35907,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:47.517Z"
-  },
-  {
-    "id": "prod1766150147517130",
-    "name": "Modern Solitaire 32",
-    "category": "Rings",
-    "price": 48940,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:50.157Z"
-  },
-  {
-    "id": "prod1766150150157455",
-    "name": "Modern Modern 7",
-    "category": "Bangles",
-    "price": 43959,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:57.857Z"
-  },
-  {
-    "id": "prod1766150157857699",
-    "name": "Luxury Chains 75",
-    "category": "Necklaces",
-    "price": 45118,
-    "status": "published",
-    "updated_at": "2025-12-19T13:15:59.983Z"
-  },
-  {
-    "id": "prod1766150159983239",
-    "name": "Modern Sui Dhaga 71",
-    "category": "Earrings",
-    "price": 73508,
-    "status": "published",
-    "updated_at": "2025-12-19T13:16:04.442Z"
-  },
-  {
-    "id": "prod1766150164442383",
-    "name": "Elegant Mangalsutra 71",
-    "category": "Necklaces",
-    "price": 98267,
-    "status": "published",
-    "updated_at": "2025-12-19T13:16:08.807Z"
-  },
-  {
-    "id": "prod1766150168807118",
-    "name": "Modern Rings 92",
-    "category": "Nose Pins",
-    "price": 67582,
-    "status": "published",
-    "updated_at": "2025-12-19T13:16:10.581Z"
-  },
-  {
-    "id": "prod1766150170581960",
-    "name": "Modern Studs 52",
-    "category": "Earrings",
-    "price": 58210,
-    "status": "published",
-    "updated_at": "2025-12-19T13:16:12.797Z"
-  },
-  {
-    "id": "prod1766150172797161",
-    "name": "Classic Septum 8",
-    "category": "Nose Pins",
-    "price": 26320,
-    "status": "published",
-    "updated_at": "2025-12-19T13:16:54.304Z"
-  },
-  {
-    "id": "prod1766150214304384",
-    "name": "Elegant Modern 2",
-    "category": "Bangles",
-    "price": 89475,
-    "status": "published",
-    "updated_at": "2025-12-19T13:16:58.928Z"
-  },
-  {
-    "id": "prod1766150218928216",
-    "name": "Modern Cuff 13",
-    "category": "Bracelets",
-    "price": 51970,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:05.556Z"
-  },
-  {
-    "id": "prod1766150225556694",
-    "name": "Elegant Traditional Heavy 79",
-    "category": "Anklets",
-    "price": 41854,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:08.742Z"
-  },
-  {
-    "id": "prod1766150228742385",
-    "name": "Elegant Cocktail 43",
-    "category": "Rings",
-    "price": 23749,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:13.277Z"
-  },
-  {
-    "id": "prod1766150233277704",
-    "name": "Vintage Traditional 54",
-    "category": "Bangles",
-    "price": 45268,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:14.811Z"
-  },
-  {
-    "id": "prod1766150234811300",
-    "name": "Vintage Kadas 74",
-    "category": "Bangles",
-    "price": 81638,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:19.151Z"
-  },
-  {
-    "id": "prod1766150239151621",
-    "name": "Vintage Traditional 96",
-    "category": "Bangles",
-    "price": 77039,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:21.283Z"
-  },
-  {
-    "id": "prod1766150241283278",
-    "name": "Luxury Rings 29",
-    "category": "Nose Pins",
-    "price": 55218,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:25.346Z"
-  },
-  {
-    "id": "prod1766150245346461",
-    "name": "Elegant Chokers 61",
-    "category": "Necklaces",
-    "price": 52413,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:31.573Z"
-  },
-  {
-    "id": "prod1766150251574417",
-    "name": "Luxury Charm Bracelets 98",
-    "category": "Bracelets",
-    "price": 16310,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:36.878Z"
-  },
-  {
-    "id": "prod1766150256878820",
-    "name": "Modern Simple 91",
-    "category": "Anklets",
-    "price": 26313,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:39.158Z"
-  },
-  {
-    "id": "prod1766150259158393",
-    "name": "Modern Sui Dhaga 46",
-    "category": "Earrings",
-    "price": 17310,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:43.454Z"
-  },
-  {
-    "id": "prod1766150263454266",
-    "name": "Classic Kadas 21",
-    "category": "Bangles",
-    "price": 18561,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:45.193Z"
-  },
-  {
-    "id": "prod1766150265193681",
-    "name": "Vintage Drops & Danglers 42",
-    "category": "Earrings",
-    "price": 19429,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:50.942Z"
-  },
-  {
-    "id": "prod1766150270942493",
-    "name": "Luxury Kadas 87",
-    "category": "Bangles",
-    "price": 66093,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:53.455Z"
-  },
-  {
-    "id": "prod1766150273455260",
-    "name": "Vintage Studs 38",
-    "category": "Earrings",
-    "price": 90622,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:55.379Z"
-  },
-  {
-    "id": "prod1766150275379259",
-    "name": "Classic Chokers 36",
-    "category": "Necklaces",
-    "price": 42328,
-    "status": "published",
-    "updated_at": "2025-12-19T13:17:59.201Z"
-  },
-  {
-    "id": "prod1766150279201342",
-    "name": "Vintage Simple 36",
-    "category": "Anklets",
-    "price": 47030,
-    "status": "published",
-    "updated_at": "2025-12-19T13:18:00.943Z"
-  },
-  {
-    "id": "prod1766150280943647",
-    "name": "Vintage Rani Haar 10",
-    "category": "Necklaces",
-    "price": 20386,
-    "status": "published",
-    "updated_at": "2025-12-19T13:18:02.767Z"
-  },
-  {
-    "id": "prod1766150282767731",
-    "name": "Modern Simple 22",
-    "category": "Anklets",
-    "price": 25834,
-    "status": "published",
-    "updated_at": "2025-12-19T13:18:05.051Z"
-  },
-  {
-    "id": "prod1766150285051965",
-    "name": "Elegant Studs 26",
-    "category": "Nose Pins",
-    "price": 83874,
-    "status": "published",
-    "updated_at": "2025-12-19T13:18:08.668Z"
-  },
-  {
-    "id": "prod1766150288668489",
-    "name": "Elegant Septum 81",
-    "category": "Nose Pins",
-    "price": 26315,
-    "status": "published",
-    "updated_at": "2025-12-19T13:18:10.486Z"
-  },
-  {
-    "id": "prod1766150290486700",
-    "name": "Elegant Traditional 42",
-    "category": "Bangles",
-    "price": 18177,
-    "status": "published",
-    "updated_at": "2025-12-19T13:18:12.307Z"
-  },
-  {
-    "id": "prod1766150292308808",
-    "name": "Vintage Modern 46",
-    "category": "Bangles",
-    "price": 62345,
-    "status": "published",
-    "updated_at": "2025-12-19T13:18:19.006Z"
-  },
-  {
-    "id": "prod1766150299006416",
-    "name": "Vintage Modern 76",
-    "category": "Bangles",
-    "price": 94531,
-    "status": "published",
-    "updated_at": "2025-12-19T13:18:31.713Z"
-  },
-  {
-    "id": "prod1766150311713945",
-    "name": "Elegant Septum 18",
-    "category": "Nose Pins",
-    "price": 35416,
-    "status": "published",
-    "updated_at": "2025-12-19T13:18:34.372Z"
-  },
-  {
-    "id": "prod1766150314372512",
-    "name": "Classic Studs 40",
-    "category": "Nose Pins",
-    "price": 70788,
-    "status": "published",
-    "updated_at": "2025-12-19T13:18:42.503Z"
-  },
-  {
-    "id": "prod1766150322503408",
-    "name": "Luxury Wedding 78",
-    "category": "Rings",
-    "price": 97670,
-    "status": "published",
-    "updated_at": "2025-12-19T13:18:45.334Z"
-  },
-  {
-    "id": "prod1766150325334254",
-    "name": "Modern Drops & Danglers 80",
-    "category": "Earrings",
-    "price": 23564,
-    "status": "published",
-    "updated_at": "2025-12-19T13:18:50.401Z"
-  },
-  {
-    "id": "prod1766150330401317",
-    "name": "Luxury Studs 18",
-    "category": "Nose Pins",
-    "price": 57434,
-    "status": "published",
-    "updated_at": "2025-12-19T13:18:52.196Z"
-  },
-  {
-    "id": "prod1766150332196384",
-    "name": "Luxury Rani Haar 78",
-    "category": "Necklaces",
-    "price": 97741,
-    "status": "published",
-    "updated_at": "2025-12-19T13:18:56.698Z"
-  },
-  {
-    "id": "prod1766150336698764",
-    "name": "Luxury Cocktail 19",
-    "category": "Rings",
-    "price": 24235,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:03.067Z"
-  },
-  {
-    "id": "prod1766150343067344",
-    "name": "Vintage Simple 51",
-    "category": "Anklets",
-    "price": 94182,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:06.300Z"
-  },
-  {
-    "id": "prod1766150346300536",
-    "name": "Modern Simple 92",
-    "category": "Anklets",
-    "price": 66734,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:09.822Z"
-  },
-  {
-    "id": "prod1766150349822250",
-    "name": "Modern Rani Haar 33",
-    "category": "Necklaces",
-    "price": 50404,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:12.600Z"
-  },
-  {
-    "id": "prod1766150352600907",
-    "name": "Modern Traditional Heavy 27",
-    "category": "Anklets",
-    "price": 17504,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:20.350Z"
-  },
-  {
-    "id": "prod1766150360350662",
-    "name": "Luxury Modern 93",
-    "category": "Bangles",
-    "price": 75137,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:23.116Z"
-  },
-  {
-    "id": "prod1766150363116733",
-    "name": "Luxury Cuff 93",
-    "category": "Bracelets",
-    "price": 52206,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:31.679Z"
-  },
-  {
-    "id": "prod1766150371679706",
-    "name": "Luxury Modern 32",
-    "category": "Bangles",
-    "price": 37363,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:35.237Z"
-  },
-  {
-    "id": "prod1766150375237541",
-    "name": "Elegant Traditional Heavy 8",
-    "category": "Anklets",
-    "price": 76822,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:39.215Z"
-  },
-  {
-    "id": "prod1766150379215436",
-    "name": "Luxury Wedding 90",
-    "category": "Rings",
-    "price": 6756,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:41.272Z"
-  },
-  {
-    "id": "prod1766150381272307",
-    "name": "Modern Traditional Heavy 23",
-    "category": "Anklets",
-    "price": 90747,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:43.053Z"
-  },
-  {
-    "id": "prod1766150383053180",
-    "name": "Classic Rani Haar 1",
-    "category": "Necklaces",
-    "price": 83085,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:45.685Z"
-  },
-  {
-    "id": "prod1766150385685402",
-    "name": "Luxury Kadas 36",
-    "category": "Bangles",
-    "price": 79021,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:47.644Z"
-  },
-  {
-    "id": "prod1766150387644328",
-    "name": "Modern Engagement 87",
-    "category": "Rings",
-    "price": 63629,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:50.148Z"
-  },
-  {
-    "id": "prod1766150390148463",
-    "name": "Classic Engagement 68",
-    "category": "Rings",
-    "price": 65475,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:51.927Z"
-  },
-  {
-    "id": "prod1766150391927636",
-    "name": "Elegant Traditional 9",
-    "category": "Bangles",
-    "price": 18241,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:54.290Z"
-  },
-  {
-    "id": "prod1766150394290455",
-    "name": "Elegant Traditional 31",
-    "category": "Bangles",
-    "price": 46455,
-    "status": "published",
-    "updated_at": "2025-12-19T13:19:57.078Z"
-  },
-  {
-    "id": "prod1766150397078593",
-    "name": "Vintage Studs 24",
-    "category": "Earrings",
-    "price": 99401,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:01.898Z"
-  },
-  {
-    "id": "prod1766150401898132",
-    "name": "Classic Traditional 57",
-    "category": "Bangles",
-    "price": 27894,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:03.795Z"
-  },
-  {
-    "id": "prod1766150403795140",
-    "name": "Classic Charm Bracelets 71",
-    "category": "Bracelets",
-    "price": 64408,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:06.059Z"
-  },
-  {
-    "id": "prod1766150406059538",
-    "name": "Vintage Chains 47",
-    "category": "Necklaces",
-    "price": 90149,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:11.515Z"
-  },
-  {
-    "id": "prod1766150411515919",
-    "name": "Elegant Septum 24",
-    "category": "Nose Pins",
-    "price": 13628,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:13.212Z"
-  },
-  {
-    "id": "prod1766150413212580",
-    "name": "Vintage Simple 15",
-    "category": "Anklets",
-    "price": 69553,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:15.435Z"
-  },
-  {
-    "id": "prod1766150415435157",
-    "name": "Modern Mangalsutra 68",
-    "category": "Necklaces",
-    "price": 40376,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:17.592Z"
-  },
-  {
-    "id": "prod1766150417592879",
-    "name": "Modern Chain Bracelets 87",
-    "category": "Bracelets",
-    "price": 85318,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:22.203Z"
-  },
-  {
-    "id": "prod1766150422203807",
-    "name": "Vintage Chain Bracelets 63",
-    "category": "Bracelets",
-    "price": 71190,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:24.710Z"
-  },
-  {
-    "id": "prod1766150424710162",
-    "name": "Vintage Chandbali 80",
-    "category": "Earrings",
-    "price": 16194,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:26.856Z"
-  },
-  {
-    "id": "prod1766150426856800",
-    "name": "Modern Pendants 45",
-    "category": "Necklaces",
-    "price": 96849,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:30.039Z"
-  },
-  {
-    "id": "prod1766150430039139",
-    "name": "Luxury Simple 30",
-    "category": "Anklets",
-    "price": 7227,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:34.008Z"
-  },
-  {
-    "id": "prod1766150434008785",
-    "name": "Vintage Hoops 97",
-    "category": "Earrings",
-    "price": 37765,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:44.194Z"
-  },
-  {
-    "id": "prod1766150444194266",
-    "name": "Elegant Cuff 66",
-    "category": "Bracelets",
-    "price": 26067,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:47.922Z"
-  },
-  {
-    "id": "prod1766150447922357",
-    "name": "Modern Modern 69",
-    "category": "Bangles",
-    "price": 16929,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:49.630Z"
-  },
-  {
-    "id": "prod1766150449630428",
-    "name": "Vintage Traditional 36",
-    "category": "Bangles",
-    "price": 25891,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:51.965Z"
-  },
-  {
-    "id": "prod1766150451965594",
-    "name": "Classic Modern 67",
-    "category": "Bangles",
-    "price": 52349,
-    "status": "published",
-    "updated_at": "2025-12-19T13:20:57.769Z"
-  },
-  {
-    "id": "prod1766150457769230",
-    "name": "Classic Layered 84",
-    "category": "Necklaces",
-    "price": 11649,
-    "status": "published",
-    "updated_at": "2025-12-19T13:21:12.070Z"
-  },
-  {
-    "id": "prod1766150472070926",
-    "name": "Classic Modern 53",
-    "category": "Bangles",
-    "price": 16332,
-    "status": "published",
-    "updated_at": "2025-12-19T13:21:14.650Z"
-  },
-  {
-    "id": "prod1766150474650331",
-    "name": "Modern Modern 6",
-    "category": "Bangles",
-    "price": 21248,
-    "status": "published",
-    "updated_at": "2025-12-19T13:21:21.079Z"
-  },
-  {
-    "id": "prod1766150481080633",
-    "name": "Classic Studs 34",
-    "category": "Earrings",
-    "price": 6638,
-    "status": "published",
-    "updated_at": "2025-12-19T13:21:24.078Z"
-  },
-  {
-    "id": "prod1766150484078752",
-    "name": "Classic Modern 85",
-    "category": "Bangles",
-    "price": 57478,
-    "status": "published",
-    "updated_at": "2025-12-19T13:21:33.327Z"
-  },
-  {
-    "id": "prod1766150493327462",
-    "name": "Luxury Chain Bracelets 17",
-    "category": "Bracelets",
-    "price": 22556,
-    "status": "published",
-    "updated_at": "2025-12-19T13:21:35.572Z"
-  },
-  {
-    "id": "prod1766150495572108",
-    "name": "Classic Rings 97",
-    "category": "Nose Pins",
-    "price": 92541,
-    "status": "published",
-    "updated_at": "2025-12-19T13:21:37.550Z"
-  },
-  {
-    "id": "prod1766150497550979",
-    "name": "Vintage Traditional 59",
-    "category": "Bangles",
-    "price": 52245,
-    "status": "published",
-    "updated_at": "2025-12-19T13:21:43.643Z"
-  },
-  {
-    "id": "prod1766150503643805",
-    "name": "Modern Cuff 100",
-    "category": "Bracelets",
-    "price": 49152,
-    "status": "published",
-    "updated_at": "2025-12-19T13:21:53.578Z"
-  },
-  {
-    "id": "prod1766150513578318",
-    "name": "Luxury Cocktail 16",
-    "category": "Rings",
-    "price": 54946,
-    "status": "published",
-    "updated_at": "2025-12-19T13:21:56.080Z"
-  },
-  {
-    "id": "prod1766150516080502",
-    "name": "Elegant Traditional Heavy 67",
-    "category": "Anklets",
-    "price": 11126,
-    "status": "published",
-    "updated_at": "2025-12-19T13:21:59.224Z"
-  },
-  {
-    "id": "prod1766150519224644",
-    "name": "Luxury Wedding 61",
-    "category": "Rings",
-    "price": 35177,
-    "status": "published",
-    "updated_at": "2025-12-19T13:22:04.386Z"
-  }
-]
+{
+  "version": 1,
+  "products": [
+    {
+      "product_id": "prod1766150006450899",
+      "name": "Modern Chain Bracelets 29",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Chain Bracelets",
+      "collections": [
+        "Bestsellers"
+      ],
+      "has_variants": true,
+      "base_price": 24382,
+      "compare_at_price": 26873,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150006450899/images/default/01.webp",
+      "path": "products/prod1766150006450899/product.json"
+    },
+    {
+      "product_id": "prod1766150011946558",
+      "name": "Classic Septum 47",
+      "status": "published",
+      "category": "Nose Pins",
+      "subcategory": "Septum",
+      "collections": [
+        "Minimalist Luxe"
+      ],
+      "has_variants": false,
+      "base_price": 58142,
+      "compare_at_price": 60759,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150011946558/images/default/01.webp",
+      "path": "products/prod1766150011946558/product.json"
+    },
+    {
+      "product_id": "prod1766150014511158",
+      "name": "Modern Engagement 21",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Engagement",
+      "collections": [
+        "Party Edit"
+      ],
+      "has_variants": false,
+      "base_price": 80818,
+      "compare_at_price": 85662,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150014511158/images/default/01.webp",
+      "path": "products/prod1766150014511158/product.json"
+    },
+    {
+      "product_id": "prod1766150016997829",
+      "name": "Modern Engagement 75",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Engagement",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": false,
+      "base_price": 97259,
+      "compare_at_price": 100298,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150016997829/images/default/01.webp",
+      "path": "products/prod1766150016997829/product.json"
+    },
+    {
+      "product_id": "prod1766150019289812",
+      "name": "Vintage Tennis Bracelets 29",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Tennis Bracelets",
+      "collections": [
+        "Bestsellers"
+      ],
+      "has_variants": true,
+      "base_price": 12376,
+      "compare_at_price": 16778,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150019289812/images/default/01.webp",
+      "path": "products/prod1766150019289812/product.json"
+    },
+    {
+      "product_id": "prod1766150025880889",
+      "name": "Modern Wedding 42",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Wedding",
+      "collections": [
+        "Summer Sparkle"
+      ],
+      "has_variants": false,
+      "base_price": 34716,
+      "compare_at_price": 39546,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150025880889/images/default/01.webp",
+      "path": "products/prod1766150025880889/product.json"
+    },
+    {
+      "product_id": "prod1766150028660110",
+      "name": "Luxury Simple 46",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Simple",
+      "collections": [
+        "Gifts Under 10k"
+      ],
+      "has_variants": true,
+      "base_price": 59591,
+      "compare_at_price": 63795,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150028660110/images/default/01.webp",
+      "path": "products/prod1766150028660110/product.json"
+    },
+    {
+      "product_id": "prod1766150033474175",
+      "name": "Vintage Engagement 79",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Engagement",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": true,
+      "base_price": 66329,
+      "compare_at_price": 70352,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150033474175/images/default/01.webp",
+      "path": "products/prod1766150033474175/product.json"
+    },
+    {
+      "product_id": "prod1766150035560926",
+      "name": "Modern Chokers 80",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Chokers",
+      "collections": [
+        "Bestsellers"
+      ],
+      "has_variants": true,
+      "base_price": 38882,
+      "compare_at_price": 42242,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150035560926/images/default/01.webp",
+      "path": "products/prod1766150035560926/product.json"
+    },
+    {
+      "product_id": "prod1766150042483618",
+      "name": "Elegant Chandbali 48",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Chandbali",
+      "collections": [
+        "Party Edit"
+      ],
+      "has_variants": false,
+      "base_price": 27197,
+      "compare_at_price": 30202,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150042483618/images/default/01.webp",
+      "path": "products/prod1766150042483618/product.json"
+    },
+    {
+      "product_id": "prod1766150045861898",
+      "name": "Classic Drops & Danglers 62",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Drops & Danglers",
+      "collections": [
+        "Bestsellers"
+      ],
+      "has_variants": true,
+      "base_price": 33189,
+      "compare_at_price": 37905,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150045861898/images/default/01.webp",
+      "path": "products/prod1766150045861898/product.json"
+    },
+    {
+      "product_id": "prod1766150058470383",
+      "name": "Modern Chains 79",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Chains",
+      "collections": [
+        "Bestsellers"
+      ],
+      "has_variants": false,
+      "base_price": 76779,
+      "compare_at_price": 78936,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150058470383/images/default/01.webp",
+      "path": "products/prod1766150058470383/product.json"
+    },
+    {
+      "product_id": "prod1766150061352291",
+      "name": "Elegant Layered 39",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Layered",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": false,
+      "base_price": 44911,
+      "compare_at_price": 47935,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150061352291/images/default/01.webp",
+      "path": "products/prod1766150061352291/product.json"
+    },
+    {
+      "product_id": "prod1766150063785756",
+      "name": "Elegant Kadas 76",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Kadas",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": false,
+      "base_price": 18677,
+      "compare_at_price": 22808,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150063785756/images/default/01.webp",
+      "path": "products/prod1766150063785756/product.json"
+    },
+    {
+      "product_id": "prod1766150067358903",
+      "name": "Luxury Chain Bracelets 79",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Chain Bracelets",
+      "collections": [
+        "Minimalist Luxe"
+      ],
+      "has_variants": true,
+      "base_price": 92855,
+      "compare_at_price": 94557,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150067358903/images/default/01.webp",
+      "path": "products/prod1766150067358903/product.json"
+    },
+    {
+      "product_id": "prod1766150075430893",
+      "name": "Elegant Simple 94",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Simple",
+      "collections": [
+        "Gifts for Her"
+      ],
+      "has_variants": true,
+      "base_price": 37289,
+      "compare_at_price": 40899,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150075430893/images/default/01.webp",
+      "path": "products/prod1766150075430893/product.json"
+    },
+    {
+      "product_id": "prod1766150083892269",
+      "name": "Vintage Modern 33",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Modern",
+      "collections": [
+        "Gifts for Him"
+      ],
+      "has_variants": false,
+      "base_price": 74225,
+      "compare_at_price": 76408,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150083892269/images/default/01.webp",
+      "path": "products/prod1766150083892269/product.json"
+    },
+    {
+      "product_id": "prod1766150088828218",
+      "name": "Classic Mangalsutra 69",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Mangalsutra",
+      "collections": [
+        "Minimalist Luxe"
+      ],
+      "has_variants": false,
+      "base_price": 59383,
+      "compare_at_price": 61940,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150088828218/images/default/01.webp",
+      "path": "products/prod1766150088828218/product.json"
+    },
+    {
+      "product_id": "prod1766150091720653",
+      "name": "Luxury Simple 62",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Simple",
+      "collections": [
+        "Office Essentials"
+      ],
+      "has_variants": false,
+      "base_price": 83886,
+      "compare_at_price": 85915,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150091720653/images/default/01.webp",
+      "path": "products/prod1766150091720653/product.json"
+    },
+    {
+      "product_id": "prod1766150093540846",
+      "name": "Modern Chain Bracelets 24",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Chain Bracelets",
+      "collections": [
+        "Traditional Treasures"
+      ],
+      "has_variants": false,
+      "base_price": 53269,
+      "compare_at_price": 55953,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150093540846/images/default/01.webp",
+      "path": "products/prod1766150093540846/product.json"
+    },
+    {
+      "product_id": "prod1766150095537586",
+      "name": "Elegant Studs 73",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Studs",
+      "collections": [
+        "Gifts for Him"
+      ],
+      "has_variants": true,
+      "base_price": 22374,
+      "compare_at_price": 23827,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150095537586/images/default/01.webp",
+      "path": "products/prod1766150095537586/product.json"
+    },
+    {
+      "product_id": "prod1766150100918690",
+      "name": "Elegant Chain Bracelets 12",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Chain Bracelets",
+      "collections": [
+        "Summer Sparkle"
+      ],
+      "has_variants": false,
+      "base_price": 48175,
+      "compare_at_price": 50670,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150100918690/images/default/01.webp",
+      "path": "products/prod1766150100918690/product.json"
+    },
+    {
+      "product_id": "prod1766150105407812",
+      "name": "Vintage Drops & Danglers 100",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Drops & Danglers",
+      "collections": [
+        "Bestsellers"
+      ],
+      "has_variants": false,
+      "base_price": 29101,
+      "compare_at_price": 32183,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150105407812/images/default/01.webp",
+      "path": "products/prod1766150105407812/product.json"
+    },
+    {
+      "product_id": "prod1766150108199950",
+      "name": "Modern Engagement 39",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Engagement",
+      "collections": [
+        "Bestsellers"
+      ],
+      "has_variants": false,
+      "base_price": 99302,
+      "compare_at_price": 100608,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150108199950/images/default/01.webp",
+      "path": "products/prod1766150108199950/product.json"
+    },
+    {
+      "product_id": "prod1766150111022918",
+      "name": "Vintage Kadas 51",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Kadas",
+      "collections": [
+        "Bestsellers"
+      ],
+      "has_variants": false,
+      "base_price": 29089,
+      "compare_at_price": 31707,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150111022918/images/default/01.webp",
+      "path": "products/prod1766150111022918/product.json"
+    },
+    {
+      "product_id": "prod1766150115475469",
+      "name": "Elegant Sui Dhaga 14",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Sui Dhaga",
+      "collections": [
+        "Gifts for Him"
+      ],
+      "has_variants": false,
+      "base_price": 94893,
+      "compare_at_price": 99672,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150115475469/images/default/01.webp",
+      "path": "products/prod1766150115475469/product.json"
+    },
+    {
+      "product_id": "prod1766150118487384",
+      "name": "Luxury Solitaire 71",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Solitaire",
+      "collections": [
+        "Office Essentials"
+      ],
+      "has_variants": true,
+      "base_price": 85939,
+      "compare_at_price": 89457,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150118487384/images/default/01.webp",
+      "path": "products/prod1766150118487384/product.json"
+    },
+    {
+      "product_id": "prod1766150121586290",
+      "name": "Classic Simple 78",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Simple",
+      "collections": [
+        "Gifts Under 10k"
+      ],
+      "has_variants": false,
+      "base_price": 92676,
+      "compare_at_price": 94597,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150121586290/images/default/01.webp",
+      "path": "products/prod1766150121586290/product.json"
+    },
+    {
+      "product_id": "prod1766150124705677",
+      "name": "Modern Tennis Bracelets 27",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Tennis Bracelets",
+      "collections": [
+        "Minimalist Luxe"
+      ],
+      "has_variants": true,
+      "base_price": 51303,
+      "compare_at_price": 54572,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150124705677/images/default/01.webp",
+      "path": "products/prod1766150124705677/product.json"
+    },
+    {
+      "product_id": "prod1766150128539694",
+      "name": "Elegant Charm Bracelets 21",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Charm Bracelets",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": false,
+      "base_price": 35101,
+      "compare_at_price": 39739,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150128539694/images/default/01.webp",
+      "path": "products/prod1766150128539694/product.json"
+    },
+    {
+      "product_id": "prod1766150130957306",
+      "name": "Elegant Simple 71",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Simple",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": false,
+      "base_price": 89632,
+      "compare_at_price": 91367,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150130957306/images/default/01.webp",
+      "path": "products/prod1766150130957306/product.json"
+    },
+    {
+      "product_id": "prod1766150133477857",
+      "name": "Vintage Chokers 19",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Chokers",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": false,
+      "base_price": 41722,
+      "compare_at_price": 42773,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150133477857/images/default/01.webp",
+      "path": "products/prod1766150133477857/product.json"
+    },
+    {
+      "product_id": "prod1766150135908815",
+      "name": "Luxury Chain Bracelets 91",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Chain Bracelets",
+      "collections": [
+        "Summer Sparkle"
+      ],
+      "has_variants": false,
+      "base_price": 91172,
+      "compare_at_price": 93137,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150135908815/images/default/01.webp",
+      "path": "products/prod1766150135908815/product.json"
+    },
+    {
+      "product_id": "prod1766150138407345",
+      "name": "Luxury Jhumkas 49",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Jhumkas",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": true,
+      "base_price": 77699,
+      "compare_at_price": 81475,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150138407345/images/default/01.webp",
+      "path": "products/prod1766150138407345/product.json"
+    },
+    {
+      "product_id": "prod1766150144761831",
+      "name": "Modern Traditional Heavy 51",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Traditional Heavy",
+      "collections": [
+        "Gifts for Him"
+      ],
+      "has_variants": false,
+      "base_price": 35907,
+      "compare_at_price": 37412,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150144761831/images/default/01.webp",
+      "path": "products/prod1766150144761831/product.json"
+    },
+    {
+      "product_id": "prod1766150147517130",
+      "name": "Modern Solitaire 32",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Solitaire",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": false,
+      "base_price": 48940,
+      "compare_at_price": 51847,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150147517130/images/default/01.webp",
+      "path": "products/prod1766150147517130/product.json"
+    },
+    {
+      "product_id": "prod1766150150157455",
+      "name": "Modern Modern 7",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Modern",
+      "collections": [
+        "Gifts Under 10k"
+      ],
+      "has_variants": true,
+      "base_price": 43959,
+      "compare_at_price": 45211,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150150157455/images/default/01.webp",
+      "path": "products/prod1766150150157455/product.json"
+    },
+    {
+      "product_id": "prod1766150157857699",
+      "name": "Luxury Chains 75",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Chains",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": false,
+      "base_price": 45118,
+      "compare_at_price": 46316,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150157857699/images/default/01.webp",
+      "path": "products/prod1766150157857699/product.json"
+    },
+    {
+      "product_id": "prod1766150159983239",
+      "name": "Modern Sui Dhaga 71",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Sui Dhaga",
+      "collections": [
+        "Gifts for Her"
+      ],
+      "has_variants": false,
+      "base_price": 73508,
+      "compare_at_price": 76085,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150159983239/images/default/01.webp",
+      "path": "products/prod1766150159983239/product.json"
+    },
+    {
+      "product_id": "prod1766150164442383",
+      "name": "Elegant Mangalsutra 71",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Mangalsutra",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": true,
+      "base_price": 98267,
+      "compare_at_price": 100051,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150164442383/images/default/01.webp",
+      "path": "products/prod1766150164442383/product.json"
+    },
+    {
+      "product_id": "prod1766150168807118",
+      "name": "Modern Rings 92",
+      "status": "published",
+      "category": "Nose Pins",
+      "subcategory": "Rings",
+      "collections": [
+        "Bestsellers"
+      ],
+      "has_variants": false,
+      "base_price": 67582,
+      "compare_at_price": 72237,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150168807118/images/default/01.webp",
+      "path": "products/prod1766150168807118/product.json"
+    },
+    {
+      "product_id": "prod1766150170581960",
+      "name": "Modern Studs 52",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Studs",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": false,
+      "base_price": 58210,
+      "compare_at_price": 62999,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150170581960/images/default/01.webp",
+      "path": "products/prod1766150170581960/product.json"
+    },
+    {
+      "product_id": "prod1766150172797161",
+      "name": "Classic Septum 8",
+      "status": "published",
+      "category": "Nose Pins",
+      "subcategory": "Septum",
+      "collections": [
+        "Gifts for Her"
+      ],
+      "has_variants": true,
+      "base_price": 26320,
+      "compare_at_price": 29795,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150172797161/images/default/01.webp",
+      "path": "products/prod1766150172797161/product.json"
+    },
+    {
+      "product_id": "prod1766150214304384",
+      "name": "Elegant Modern 2",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Modern",
+      "collections": [
+        "Bestsellers"
+      ],
+      "has_variants": false,
+      "base_price": 89475,
+      "compare_at_price": 93465,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150214304384/images/default/01.webp",
+      "path": "products/prod1766150214304384/product.json"
+    },
+    {
+      "product_id": "prod1766150218928216",
+      "name": "Modern Cuff 13",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Cuff",
+      "collections": [
+        "Summer Sparkle"
+      ],
+      "has_variants": true,
+      "base_price": 51970,
+      "compare_at_price": 55953,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150218928216/images/default/01.webp",
+      "path": "products/prod1766150218928216/product.json"
+    },
+    {
+      "product_id": "prod1766150225556694",
+      "name": "Elegant Traditional Heavy 79",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Traditional Heavy",
+      "collections": [
+        "Gifts for Her"
+      ],
+      "has_variants": false,
+      "base_price": 41854,
+      "compare_at_price": 44792,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150225556694/images/default/01.webp",
+      "path": "products/prod1766150225556694/product.json"
+    },
+    {
+      "product_id": "prod1766150228742385",
+      "name": "Elegant Cocktail 43",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Cocktail",
+      "collections": [
+        "Traditional Treasures"
+      ],
+      "has_variants": true,
+      "base_price": 23749,
+      "compare_at_price": 27380,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150228742385/images/default/01.webp",
+      "path": "products/prod1766150228742385/product.json"
+    },
+    {
+      "product_id": "prod1766150233277704",
+      "name": "Vintage Traditional 54",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Traditional",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": false,
+      "base_price": 45268,
+      "compare_at_price": 49692,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150233277704/images/default/01.webp",
+      "path": "products/prod1766150233277704/product.json"
+    },
+    {
+      "product_id": "prod1766150234811300",
+      "name": "Vintage Kadas 74",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Kadas",
+      "collections": [
+        "Traditional Treasures"
+      ],
+      "has_variants": true,
+      "base_price": 81638,
+      "compare_at_price": 86407,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150234811300/images/default/01.webp",
+      "path": "products/prod1766150234811300/product.json"
+    },
+    {
+      "product_id": "prod1766150239151621",
+      "name": "Vintage Traditional 96",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Traditional",
+      "collections": [
+        "Party Edit"
+      ],
+      "has_variants": false,
+      "base_price": 77039,
+      "compare_at_price": 79679,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150239151621/images/default/01.webp",
+      "path": "products/prod1766150239151621/product.json"
+    },
+    {
+      "product_id": "prod1766150241283278",
+      "name": "Luxury Rings 29",
+      "status": "published",
+      "category": "Nose Pins",
+      "subcategory": "Rings",
+      "collections": [
+        "Bestsellers"
+      ],
+      "has_variants": true,
+      "base_price": 55218,
+      "compare_at_price": 57883,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150241283278/images/default/01.webp",
+      "path": "products/prod1766150241283278/product.json"
+    },
+    {
+      "product_id": "prod1766150245346461",
+      "name": "Elegant Chokers 61",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Chokers",
+      "collections": [
+        "Party Edit"
+      ],
+      "has_variants": false,
+      "base_price": 52413,
+      "compare_at_price": 56701,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150245346461/images/default/01.webp",
+      "path": "products/prod1766150245346461/product.json"
+    },
+    {
+      "product_id": "prod1766150251574417",
+      "name": "Luxury Charm Bracelets 98",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Charm Bracelets",
+      "collections": [
+        "Party Edit"
+      ],
+      "has_variants": true,
+      "base_price": 16310,
+      "compare_at_price": 19735,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150251574417/images/default/01.webp",
+      "path": "products/prod1766150251574417/product.json"
+    },
+    {
+      "product_id": "prod1766150256878820",
+      "name": "Modern Simple 91",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Simple",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": false,
+      "base_price": 26313,
+      "compare_at_price": 28683,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150256878820/images/default/01.webp",
+      "path": "products/prod1766150256878820/product.json"
+    },
+    {
+      "product_id": "prod1766150259158393",
+      "name": "Modern Sui Dhaga 46",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Sui Dhaga",
+      "collections": [
+        "Party Edit"
+      ],
+      "has_variants": false,
+      "base_price": 17310,
+      "compare_at_price": 18465,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150259158393/images/default/01.webp",
+      "path": "products/prod1766150259158393/product.json"
+    },
+    {
+      "product_id": "prod1766150263454266",
+      "name": "Classic Kadas 21",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Kadas",
+      "collections": [
+        "Minimalist Luxe"
+      ],
+      "has_variants": false,
+      "base_price": 18561,
+      "compare_at_price": 21425,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150263454266/images/default/01.webp",
+      "path": "products/prod1766150263454266/product.json"
+    },
+    {
+      "product_id": "prod1766150265193681",
+      "name": "Vintage Drops & Danglers 42",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Drops & Danglers",
+      "collections": [
+        "Minimalist Luxe"
+      ],
+      "has_variants": true,
+      "base_price": 19429,
+      "compare_at_price": 24046,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150265193681/images/default/01.webp",
+      "path": "products/prod1766150265193681/product.json"
+    },
+    {
+      "product_id": "prod1766150270942493",
+      "name": "Luxury Kadas 87",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Kadas",
+      "collections": [
+        "Gifts Under 10k"
+      ],
+      "has_variants": false,
+      "base_price": 66093,
+      "compare_at_price": 67333,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150270942493/images/default/01.webp",
+      "path": "products/prod1766150270942493/product.json"
+    },
+    {
+      "product_id": "prod1766150273455260",
+      "name": "Vintage Studs 38",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Studs",
+      "collections": [
+        "Office Essentials"
+      ],
+      "has_variants": false,
+      "base_price": 90622,
+      "compare_at_price": 91974,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150273455260/images/default/01.webp",
+      "path": "products/prod1766150273455260/product.json"
+    },
+    {
+      "product_id": "prod1766150275379259",
+      "name": "Classic Chokers 36",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Chokers",
+      "collections": [
+        "Office Essentials"
+      ],
+      "has_variants": true,
+      "base_price": 42328,
+      "compare_at_price": 46492,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150275379259/images/default/01.webp",
+      "path": "products/prod1766150275379259/product.json"
+    },
+    {
+      "product_id": "prod1766150279201342",
+      "name": "Vintage Simple 36",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Simple",
+      "collections": [
+        "Gifts Under 10k"
+      ],
+      "has_variants": false,
+      "base_price": 47030,
+      "compare_at_price": 51871,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150279201342/images/default/01.webp",
+      "path": "products/prod1766150279201342/product.json"
+    },
+    {
+      "product_id": "prod1766150280943647",
+      "name": "Vintage Rani Haar 10",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Rani Haar",
+      "collections": [
+        "Gifts Under 10k"
+      ],
+      "has_variants": false,
+      "base_price": 20386,
+      "compare_at_price": 25368,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150280943647/images/default/01.webp",
+      "path": "products/prod1766150280943647/product.json"
+    },
+    {
+      "product_id": "prod1766150282767731",
+      "name": "Modern Simple 22",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Simple",
+      "collections": [
+        "Gifts for Him"
+      ],
+      "has_variants": false,
+      "base_price": 25834,
+      "compare_at_price": 27800,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150282767731/images/default/01.webp",
+      "path": "products/prod1766150282767731/product.json"
+    },
+    {
+      "product_id": "prod1766150285051965",
+      "name": "Elegant Studs 26",
+      "status": "published",
+      "category": "Nose Pins",
+      "subcategory": "Studs",
+      "collections": [
+        "Traditional Treasures"
+      ],
+      "has_variants": false,
+      "base_price": 83874,
+      "compare_at_price": 88250,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150285051965/images/default/01.webp",
+      "path": "products/prod1766150285051965/product.json"
+    },
+    {
+      "product_id": "prod1766150288668489",
+      "name": "Elegant Septum 81",
+      "status": "published",
+      "category": "Nose Pins",
+      "subcategory": "Septum",
+      "collections": [
+        "Gifts for Him"
+      ],
+      "has_variants": false,
+      "base_price": 26315,
+      "compare_at_price": 28329,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150288668489/images/default/01.webp",
+      "path": "products/prod1766150288668489/product.json"
+    },
+    {
+      "product_id": "prod1766150290486700",
+      "name": "Elegant Traditional 42",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Traditional",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": false,
+      "base_price": 18177,
+      "compare_at_price": 23051,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150290486700/images/default/01.webp",
+      "path": "products/prod1766150290486700/product.json"
+    },
+    {
+      "product_id": "prod1766150292308808",
+      "name": "Vintage Modern 46",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Modern",
+      "collections": [
+        "Gifts Under 10k"
+      ],
+      "has_variants": true,
+      "base_price": 62345,
+      "compare_at_price": 65599,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150292308808/images/default/01.webp",
+      "path": "products/prod1766150292308808/product.json"
+    },
+    {
+      "product_id": "prod1766150299006416",
+      "name": "Vintage Modern 76",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Modern",
+      "collections": [
+        "Summer Sparkle"
+      ],
+      "has_variants": false,
+      "base_price": 94531,
+      "compare_at_price": 95985,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150299006416/images/default/01.webp",
+      "path": "products/prod1766150299006416/product.json"
+    },
+    {
+      "product_id": "prod1766150311713945",
+      "name": "Elegant Septum 18",
+      "status": "published",
+      "category": "Nose Pins",
+      "subcategory": "Septum",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": false,
+      "base_price": 35416,
+      "compare_at_price": 39347,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150311713945/images/default/01.webp",
+      "path": "products/prod1766150311713945/product.json"
+    },
+    {
+      "product_id": "prod1766150314372512",
+      "name": "Classic Studs 40",
+      "status": "published",
+      "category": "Nose Pins",
+      "subcategory": "Studs",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": true,
+      "base_price": 70788,
+      "compare_at_price": 73098,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150314372512/images/default/01.webp",
+      "path": "products/prod1766150314372512/product.json"
+    },
+    {
+      "product_id": "prod1766150322503408",
+      "name": "Luxury Wedding 78",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Wedding",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": false,
+      "base_price": 97670,
+      "compare_at_price": 99374,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150322503408/images/default/01.webp",
+      "path": "products/prod1766150322503408/product.json"
+    },
+    {
+      "product_id": "prod1766150325334254",
+      "name": "Modern Drops & Danglers 80",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Drops & Danglers",
+      "collections": [
+        "Traditional Treasures"
+      ],
+      "has_variants": true,
+      "base_price": 23564,
+      "compare_at_price": 26570,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150325334254/images/default/01.webp",
+      "path": "products/prod1766150325334254/product.json"
+    },
+    {
+      "product_id": "prod1766150330401317",
+      "name": "Luxury Studs 18",
+      "status": "published",
+      "category": "Nose Pins",
+      "subcategory": "Studs",
+      "collections": [
+        "Minimalist Luxe"
+      ],
+      "has_variants": false,
+      "base_price": 57434,
+      "compare_at_price": 59850,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150330401317/images/default/01.webp",
+      "path": "products/prod1766150330401317/product.json"
+    },
+    {
+      "product_id": "prod1766150332196384",
+      "name": "Luxury Rani Haar 78",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Rani Haar",
+      "collections": [
+        "Office Essentials"
+      ],
+      "has_variants": true,
+      "base_price": 97741,
+      "compare_at_price": 99313,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150332196384/images/default/01.webp",
+      "path": "products/prod1766150332196384/product.json"
+    },
+    {
+      "product_id": "prod1766150336698764",
+      "name": "Luxury Cocktail 19",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Cocktail",
+      "collections": [
+        "Summer Sparkle"
+      ],
+      "has_variants": false,
+      "base_price": 24235,
+      "compare_at_price": 28533,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150336698764/images/default/01.webp",
+      "path": "products/prod1766150336698764/product.json"
+    },
+    {
+      "product_id": "prod1766150343067344",
+      "name": "Vintage Simple 51",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Simple",
+      "collections": [
+        "Gifts for Her"
+      ],
+      "has_variants": false,
+      "base_price": 94182,
+      "compare_at_price": 95850,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150343067344/images/default/01.webp",
+      "path": "products/prod1766150343067344/product.json"
+    },
+    {
+      "product_id": "prod1766150346300536",
+      "name": "Modern Simple 92",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Simple",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": false,
+      "base_price": 66734,
+      "compare_at_price": 69034,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150346300536/images/default/01.webp",
+      "path": "products/prod1766150346300536/product.json"
+    },
+    {
+      "product_id": "prod1766150349822250",
+      "name": "Modern Rani Haar 33",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Rani Haar",
+      "collections": [
+        "Gifts Under 10k"
+      ],
+      "has_variants": false,
+      "base_price": 50404,
+      "compare_at_price": 51695,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150349822250/images/default/01.webp",
+      "path": "products/prod1766150349822250/product.json"
+    },
+    {
+      "product_id": "prod1766150352600907",
+      "name": "Modern Traditional Heavy 27",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Traditional Heavy",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": true,
+      "base_price": 17504,
+      "compare_at_price": 19894,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150352600907/images/default/01.webp",
+      "path": "products/prod1766150352600907/product.json"
+    },
+    {
+      "product_id": "prod1766150360350662",
+      "name": "Luxury Modern 93",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Modern",
+      "collections": [
+        "Summer Sparkle"
+      ],
+      "has_variants": false,
+      "base_price": 75137,
+      "compare_at_price": 78195,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150360350662/images/default/01.webp",
+      "path": "products/prod1766150360350662/product.json"
+    },
+    {
+      "product_id": "prod1766150363116733",
+      "name": "Luxury Cuff 93",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Cuff",
+      "collections": [
+        "Party Edit"
+      ],
+      "has_variants": true,
+      "base_price": 52206,
+      "compare_at_price": 56463,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150363116733/images/default/01.webp",
+      "path": "products/prod1766150363116733/product.json"
+    },
+    {
+      "product_id": "prod1766150371679706",
+      "name": "Luxury Modern 32",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Modern",
+      "collections": [
+        "Gifts for Her"
+      ],
+      "has_variants": false,
+      "base_price": 37363,
+      "compare_at_price": 41539,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150371679706/images/default/01.webp",
+      "path": "products/prod1766150371679706/product.json"
+    },
+    {
+      "product_id": "prod1766150375237541",
+      "name": "Elegant Traditional Heavy 8",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Traditional Heavy",
+      "collections": [
+        "Minimalist Luxe"
+      ],
+      "has_variants": false,
+      "base_price": 76822,
+      "compare_at_price": 79856,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150375237541/images/default/01.webp",
+      "path": "products/prod1766150375237541/product.json"
+    },
+    {
+      "product_id": "prod1766150379215436",
+      "name": "Luxury Wedding 90",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Wedding",
+      "collections": [
+        "Summer Sparkle"
+      ],
+      "has_variants": true,
+      "base_price": 6756,
+      "compare_at_price": 11394,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150379215436/images/default/01.webp",
+      "path": "products/prod1766150379215436/product.json"
+    },
+    {
+      "product_id": "prod1766150381272307",
+      "name": "Modern Traditional Heavy 23",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Traditional Heavy",
+      "collections": [
+        "Office Essentials"
+      ],
+      "has_variants": false,
+      "base_price": 90747,
+      "compare_at_price": 93787,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150381272307/images/default/01.webp",
+      "path": "products/prod1766150381272307/product.json"
+    },
+    {
+      "product_id": "prod1766150383053180",
+      "name": "Classic Rani Haar 1",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Rani Haar",
+      "collections": [
+        "Office Essentials"
+      ],
+      "has_variants": false,
+      "base_price": 83085,
+      "compare_at_price": 86142,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150383053180/images/default/01.webp",
+      "path": "products/prod1766150383053180/product.json"
+    },
+    {
+      "product_id": "prod1766150385685402",
+      "name": "Luxury Kadas 36",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Kadas",
+      "collections": [
+        "Traditional Treasures"
+      ],
+      "has_variants": false,
+      "base_price": 79021,
+      "compare_at_price": 81101,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150385685402/images/default/01.webp",
+      "path": "products/prod1766150385685402/product.json"
+    },
+    {
+      "product_id": "prod1766150387644328",
+      "name": "Modern Engagement 87",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Engagement",
+      "collections": [
+        "Gifts for Him"
+      ],
+      "has_variants": false,
+      "base_price": 63629,
+      "compare_at_price": 68236,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150387644328/images/default/01.webp",
+      "path": "products/prod1766150387644328/product.json"
+    },
+    {
+      "product_id": "prod1766150390148463",
+      "name": "Classic Engagement 68",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Engagement",
+      "collections": [
+        "Traditional Treasures"
+      ],
+      "has_variants": false,
+      "base_price": 65475,
+      "compare_at_price": 67970,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150390148463/images/default/01.webp",
+      "path": "products/prod1766150390148463/product.json"
+    },
+    {
+      "product_id": "prod1766150391927636",
+      "name": "Elegant Traditional 9",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Traditional",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": false,
+      "base_price": 18241,
+      "compare_at_price": 21468,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150391927636/images/default/01.webp",
+      "path": "products/prod1766150391927636/product.json"
+    },
+    {
+      "product_id": "prod1766150394290455",
+      "name": "Elegant Traditional 31",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Traditional",
+      "collections": [
+        "Summer Sparkle"
+      ],
+      "has_variants": true,
+      "base_price": 46455,
+      "compare_at_price": 49994,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150394290455/images/default/01.webp",
+      "path": "products/prod1766150394290455/product.json"
+    },
+    {
+      "product_id": "prod1766150397078593",
+      "name": "Vintage Studs 24",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Studs",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": false,
+      "base_price": 99401,
+      "compare_at_price": 104106,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150397078593/images/default/01.webp",
+      "path": "products/prod1766150397078593/product.json"
+    },
+    {
+      "product_id": "prod1766150401898132",
+      "name": "Classic Traditional 57",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Traditional",
+      "collections": [
+        "Party Edit"
+      ],
+      "has_variants": false,
+      "base_price": 27894,
+      "compare_at_price": 30086,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150401898132/images/default/01.webp",
+      "path": "products/prod1766150401898132/product.json"
+    },
+    {
+      "product_id": "prod1766150403795140",
+      "name": "Classic Charm Bracelets 71",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Charm Bracelets",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": false,
+      "base_price": 64408,
+      "compare_at_price": 69057,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150403795140/images/default/01.webp",
+      "path": "products/prod1766150403795140/product.json"
+    },
+    {
+      "product_id": "prod1766150406059538",
+      "name": "Vintage Chains 47",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Chains",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": true,
+      "base_price": 90149,
+      "compare_at_price": 93944,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150406059538/images/default/01.webp",
+      "path": "products/prod1766150406059538/product.json"
+    },
+    {
+      "product_id": "prod1766150411515919",
+      "name": "Elegant Septum 24",
+      "status": "published",
+      "category": "Nose Pins",
+      "subcategory": "Septum",
+      "collections": [
+        "Summer Sparkle"
+      ],
+      "has_variants": false,
+      "base_price": 13628,
+      "compare_at_price": 15314,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150411515919/images/default/01.webp",
+      "path": "products/prod1766150411515919/product.json"
+    },
+    {
+      "product_id": "prod1766150413212580",
+      "name": "Vintage Simple 15",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Simple",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": false,
+      "base_price": 69553,
+      "compare_at_price": 73193,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150413212580/images/default/01.webp",
+      "path": "products/prod1766150413212580/product.json"
+    },
+    {
+      "product_id": "prod1766150415435157",
+      "name": "Modern Mangalsutra 68",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Mangalsutra",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": false,
+      "base_price": 40376,
+      "compare_at_price": 42220,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150415435157/images/default/01.webp",
+      "path": "products/prod1766150415435157/product.json"
+    },
+    {
+      "product_id": "prod1766150417592879",
+      "name": "Modern Chain Bracelets 87",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Chain Bracelets",
+      "collections": [
+        "Summer Sparkle"
+      ],
+      "has_variants": true,
+      "base_price": 85318,
+      "compare_at_price": 88704,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150417592879/images/default/01.webp",
+      "path": "products/prod1766150417592879/product.json"
+    },
+    {
+      "product_id": "prod1766150422203807",
+      "name": "Vintage Chain Bracelets 63",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Chain Bracelets",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": false,
+      "base_price": 71190,
+      "compare_at_price": 72856,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150422203807/images/default/01.webp",
+      "path": "products/prod1766150422203807/product.json"
+    },
+    {
+      "product_id": "prod1766150424710162",
+      "name": "Vintage Chandbali 80",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Chandbali",
+      "collections": [
+        "Office Essentials"
+      ],
+      "has_variants": false,
+      "base_price": 16194,
+      "compare_at_price": 17243,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150424710162/images/default/01.webp",
+      "path": "products/prod1766150424710162/product.json"
+    },
+    {
+      "product_id": "prod1766150426856800",
+      "name": "Modern Pendants 45",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Pendants",
+      "collections": [
+        "Gifts for Her"
+      ],
+      "has_variants": false,
+      "base_price": 96849,
+      "compare_at_price": 100634,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150426856800/images/default/01.webp",
+      "path": "products/prod1766150426856800/product.json"
+    },
+    {
+      "product_id": "prod1766150430039139",
+      "name": "Luxury Simple 30",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Simple",
+      "collections": [
+        "Traditional Treasures"
+      ],
+      "has_variants": false,
+      "base_price": 7227,
+      "compare_at_price": 8251,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150430039139/images/default/01.webp",
+      "path": "products/prod1766150430039139/product.json"
+    },
+    {
+      "product_id": "prod1766150434008785",
+      "name": "Vintage Hoops 97",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Hoops",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": true,
+      "base_price": 37765,
+      "compare_at_price": 42425,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150434008785/images/default/01.webp",
+      "path": "products/prod1766150434008785/product.json"
+    },
+    {
+      "product_id": "prod1766150444194266",
+      "name": "Elegant Cuff 66",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Cuff",
+      "collections": [
+        "Party Edit"
+      ],
+      "has_variants": false,
+      "base_price": 26067,
+      "compare_at_price": 28877,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150444194266/images/default/01.webp",
+      "path": "products/prod1766150444194266/product.json"
+    },
+    {
+      "product_id": "prod1766150447922357",
+      "name": "Modern Modern 69",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Modern",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": false,
+      "base_price": 16929,
+      "compare_at_price": 18804,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150447922357/images/default/01.webp",
+      "path": "products/prod1766150447922357/product.json"
+    },
+    {
+      "product_id": "prod1766150449630428",
+      "name": "Vintage Traditional 36",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Traditional",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": false,
+      "base_price": 25891,
+      "compare_at_price": 28134,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150449630428/images/default/01.webp",
+      "path": "products/prod1766150449630428/product.json"
+    },
+    {
+      "product_id": "prod1766150451965594",
+      "name": "Classic Modern 67",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Modern",
+      "collections": [
+        "Minimalist Luxe"
+      ],
+      "has_variants": false,
+      "base_price": 52349,
+      "compare_at_price": 55100,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150451965594/images/default/01.webp",
+      "path": "products/prod1766150451965594/product.json"
+    },
+    {
+      "product_id": "prod1766150457769230",
+      "name": "Classic Layered 84",
+      "status": "published",
+      "category": "Necklaces",
+      "subcategory": "Layered",
+      "collections": [
+        "Gifts Under 10k"
+      ],
+      "has_variants": true,
+      "base_price": 11649,
+      "compare_at_price": 14781,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150457769230/images/default/01.webp",
+      "path": "products/prod1766150457769230/product.json"
+    },
+    {
+      "product_id": "prod1766150472070926",
+      "name": "Classic Modern 53",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Modern",
+      "collections": [
+        "Party Edit"
+      ],
+      "has_variants": false,
+      "base_price": 16332,
+      "compare_at_price": 20587,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150472070926/images/default/01.webp",
+      "path": "products/prod1766150472070926/product.json"
+    },
+    {
+      "product_id": "prod1766150474650331",
+      "name": "Modern Modern 6",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Modern",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": true,
+      "base_price": 21248,
+      "compare_at_price": 23912,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150474650331/images/default/01.webp",
+      "path": "products/prod1766150474650331/product.json"
+    },
+    {
+      "product_id": "prod1766150481080633",
+      "name": "Classic Studs 34",
+      "status": "published",
+      "category": "Earrings",
+      "subcategory": "Studs",
+      "collections": [
+        "Minimalist Luxe"
+      ],
+      "has_variants": false,
+      "base_price": 6638,
+      "compare_at_price": 10204,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150481080633/images/default/01.webp",
+      "path": "products/prod1766150481080633/product.json"
+    },
+    {
+      "product_id": "prod1766150484078752",
+      "name": "Classic Modern 85",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Modern",
+      "collections": [
+        "Office Essentials"
+      ],
+      "has_variants": false,
+      "base_price": 57478,
+      "compare_at_price": 58888,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150484078752/images/default/01.webp",
+      "path": "products/prod1766150484078752/product.json"
+    },
+    {
+      "product_id": "prod1766150493327462",
+      "name": "Luxury Chain Bracelets 17",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Chain Bracelets",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": false,
+      "base_price": 22556,
+      "compare_at_price": 26912,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150493327462/images/default/01.webp",
+      "path": "products/prod1766150493327462/product.json"
+    },
+    {
+      "product_id": "prod1766150495572108",
+      "name": "Classic Rings 97",
+      "status": "published",
+      "category": "Nose Pins",
+      "subcategory": "Rings",
+      "collections": [
+        "Gifts Under 10k"
+      ],
+      "has_variants": false,
+      "base_price": 92541,
+      "compare_at_price": 95942,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150495572108/images/default/01.webp",
+      "path": "products/prod1766150495572108/product.json"
+    },
+    {
+      "product_id": "prod1766150497550979",
+      "name": "Vintage Traditional 59",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Traditional",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": false,
+      "base_price": 52245,
+      "compare_at_price": 53874,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150497550979/images/default/01.webp",
+      "path": "products/prod1766150497550979/product.json"
+    },
+    {
+      "product_id": "prod1766150503643805",
+      "name": "Modern Cuff 100",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Cuff",
+      "collections": [
+        "Festive Glow"
+      ],
+      "has_variants": true,
+      "base_price": 49152,
+      "compare_at_price": 54146,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150503643805/images/default/01.webp",
+      "path": "products/prod1766150503643805/product.json"
+    },
+    {
+      "product_id": "prod1766150513578318",
+      "name": "Luxury Cocktail 16",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Cocktail",
+      "collections": [
+        "Minimalist Luxe"
+      ],
+      "has_variants": true,
+      "base_price": 54946,
+      "compare_at_price": 59437,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150513578318/images/default/01.webp",
+      "path": "products/prod1766150513578318/product.json"
+    },
+    {
+      "product_id": "prod1766150516080502",
+      "name": "Elegant Traditional Heavy 67",
+      "status": "published",
+      "category": "Anklets",
+      "subcategory": "Traditional Heavy",
+      "collections": [
+        "Minimalist Luxe"
+      ],
+      "has_variants": false,
+      "base_price": 11126,
+      "compare_at_price": 12873,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150516080502/images/default/01.webp",
+      "path": "products/prod1766150516080502/product.json"
+    },
+    {
+      "product_id": "prod1766150519224644",
+      "name": "Luxury Wedding 61",
+      "status": "published",
+      "category": "Rings",
+      "subcategory": "Wedding",
+      "collections": [
+        "Gifts Under 10k"
+      ],
+      "has_variants": false,
+      "base_price": 35177,
+      "compare_at_price": 39461,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150519224644/images/default/01.webp",
+      "path": "products/prod1766150519224644/product.json"
+    }
+  ],
+  "generated_at": "2025-12-19T17:50:57.490Z"
+}
