@@ -1,3 +1,46 @@
 {
-
+    "desktop_nav": [
+        {
+            "label": "Discover",
+            "link": "/shop"
+        },
+        {
+            "label": "New In",
+            "link": "/shop?sort=newest"
+        },
+        {
+            "label": "Bestsellers",
+            "link": "/shop?collection=Bestsellers"
+        },
+        {
+            "label": "Gifts",
+            "link": "/shop?collection=Gifts"
+        }
+    ],
+    "mobile_nav": [
+        {
+            "label": "Discover",
+            "link": "/shop"
+        },
+        {
+            "label": "New In",
+            "link": "/shop?sort=newest"
+        },
+        {
+            "label": "Bestsellers",
+            "link": "/shop?collection=Bestsellers"
+        },
+        {
+            "label": "Gifts",
+            "link": "/shop?collection=Gifts"
+        },
+        {
+            "label": "Support",
+            "link": "/contact"
+        },
+        {
+            "label": "Track Order",
+            "link": "/track-order"
+        }
+    ]
 }
