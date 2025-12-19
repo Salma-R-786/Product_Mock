@@ -1,3 +1,124 @@
 {
-
+    "hero": {
+        "title": "Modern Luxury",
+        "subtitle": "Everyday fine jewelry designed for the modern woman.",
+        "button_text": "Shop Now",
+        "button_link": "/shop",
+        "background_image": "https://www.transparenttextures.com/patterns/cubes.png",
+        "overlay_image": "https://photos.app.goo.gl/VqeFAgwFrsMZF4caA",
+        "overlay_opacity": 0.3,
+        "overlay_height": "100%",
+        "overlay_width": "100%"
+    },
+    "announcements": [
+        "Free Shipping on All Orders Over ₹50,000",
+        "New Collection: Bridal Series 2025",
+        "10% Off on Your First Order - Use Code: NEW10"
+    ],
+    "sections": [
+        {
+            "id": "carousel_1",
+            "type": "promotional_carousel",
+            "height": "h-[200px] md:h-[300px]",
+            "autoplaySpeed": 5000,
+            "images": [
+                {
+                    "src": "https://picsum.photos/1200/400?random=1",
+                    "alt": "New Collection Launch",
+                    "link": "/shop?collection=New"
+                },
+                {
+                    "src": "https://picsum.photos/1200/400?random=2",
+                    "alt": "Wedding Season Special",
+                    "link": "/shop?category=Bridal"
+                },
+                {
+                    "src": "https://picsum.photos/1200/400?random=3",
+                    "alt": "Exclusive Offers",
+                    "link": "/shop"
+                }
+            ]
+        },
+        {
+            "id": "new_arrivals",
+            "type": "product_grid",
+            "title": "New Arrivals",
+            "view_all_text": "View All New Arrivals",
+            "view_all_link": "/shop",
+            "product_ids": []
+        },
+        {
+            "id": "carousel_2",
+            "type": "promotional_carousel",
+            "height": "h-[180px] md:h-[250px]",
+            "autoplaySpeed": 6000,
+            "images": [
+                {
+                    "src": "https://picsum.photos/1200/400?random=4",
+                    "alt": "Trending Styles",
+                    "link": "/shop?sort=trending"
+                },
+                {
+                    "src": "https://picsum.photos/1200/400?random=5",
+                    "alt": "Gift Guide",
+                    "link": "/shop?collection=Gifts"
+                },
+                {
+                    "src": "https://picsum.photos/1200/400?random=101",
+                    "alt": "Limited Edition",
+                    "link": "/shop"
+                }
+            ]
+        },
+        {
+            "id": "top_styles",
+            "type": "category_tabs",
+            "title": "Top Categories",
+            "categories": [
+                "All",
+                "Necklaces",
+                "Bracelets",
+                "Earrings",
+                "Rings"
+            ],
+            "view_all_text": "View All Products",
+            "view_all_link": "/shop"
+        },
+        {
+            "id": "carousel_3",
+            "type": "promotional_carousel",
+            "height": "h-[180px] md:h-[250px]",
+            "autoplaySpeed": 7000,
+            "images": [
+                {
+                    "src": "https://picsum.photos/1200/400?random=7",
+                    "alt": "Bridal Collection",
+                    "link": "/shop?category=Bridal"
+                },
+                {
+                    "src": "https://picsum.photos/1200/400?random=8",
+                    "alt": "Gold Essentials",
+                    "link": "/shop?metal=Gold"
+                },
+                {
+                    "src": "https://picsum.photos/1200/400?random=101",
+                    "alt": "Diamond Dreams",
+                    "link": "/shop?stone=Diamond"
+                }
+            ]
+        },
+        {
+            "id": "collections",
+            "type": "collection_tabs",
+            "title": "Top Collections",
+            "categories": [
+                "All",
+                "Bridal",
+                "Everyday Wear",
+                "Gifts"
+            ],
+            "view_all_text": "View All Collections",
+            "view_all_link": "/shop"
+        }
+    ]
 }
