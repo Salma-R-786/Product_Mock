@@ -1,3 +1,13 @@
 {
-
+    "site_settings": {
+        "name": "Asma Gold Essence",
+        "primary_gold_hex": "#D4AF37",
+        "secondary_silver_hex": "#C0C0C0",
+        "currency_symbol": "₹"
+    },
+    "whatsapp_config": {
+        "phone_number": "+919875683754",
+        "inquiry_header": "I am interested in confirming the availability of the following items from your catalog. Please find the details below:\n\nRequested Products:\n\n",
+        "item_template": "Product ID: {product_id}\nProduct Name: {product_name}\nMetal / Finish: {metal}\nVariant: {variant}\n{size_line}Quoted Price: {price}\nQty: {quantity}"
+    }
 }
