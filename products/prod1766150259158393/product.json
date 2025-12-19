@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150259158393",
+  "product_info": {
+    "name": "Modern Sui Dhaga 46",
+    "status": "published",
+    "description": "A beautiful 22k Gold sui dhaga. Perfect for any occasion.",
+    "category": "Earrings",
+    "subcategory": "Sui Dhaga",
+    "collections": [
+      "Party Edit"
+    ],
+    "base_price": 17310,
+    "compare_at_price": 18465,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150259158393/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Silver"
+    },
+    {
+      "label": "Weight",
+      "content": "6g"
+    }
+  ]
+}

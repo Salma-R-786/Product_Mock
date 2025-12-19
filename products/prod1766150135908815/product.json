@@ -1,0 +1,43 @@
+{
+  "product_id": "prod1766150135908815",
+  "product_info": {
+    "name": "Luxury Chain Bracelets 91",
+    "status": "published",
+    "description": "A beautiful 18k Gold chain bracelets. Perfect for any occasion.",
+    "category": "Bracelets",
+    "subcategory": "Chain Bracelets",
+    "collections": [
+      "Summer Sparkle"
+    ],
+    "base_price": 91172,
+    "compare_at_price": 93137,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150135908815/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/C123456789/"
+      ]
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Platinum"
+    },
+    {
+      "label": "Weight",
+      "content": "9g"
+    }
+  ]
+}

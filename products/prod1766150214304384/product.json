@@ -1,0 +1,43 @@
+{
+  "product_id": "prod1766150214304384",
+  "product_info": {
+    "name": "Elegant Modern 2",
+    "status": "published",
+    "description": "A beautiful 18k Gold modern. Perfect for any occasion.",
+    "category": "Bangles",
+    "subcategory": "Modern",
+    "collections": [
+      "Bestsellers"
+    ],
+    "base_price": 89475,
+    "compare_at_price": 93465,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150214304384/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/C123456789/"
+      ]
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Silver"
+    },
+    {
+      "label": "Weight",
+      "content": "9g"
+    }
+  ]
+}

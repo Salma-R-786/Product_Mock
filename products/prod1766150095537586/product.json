@@ -1,0 +1,84 @@
+{
+  "product_id": "prod1766150095537586",
+  "product_info": {
+    "name": "Elegant Studs 73",
+    "status": "published",
+    "description": "A beautiful Platinum studs. Perfect for any occasion.",
+    "category": "Earrings",
+    "subcategory": "Studs",
+    "collections": [
+      "Gifts for Him"
+    ],
+    "base_price": 22374,
+    "compare_at_price": 23827,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150095537586/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/C123456789/"
+      ]
+    },
+    "rosegold": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150095537586/images/rosegold/01.webp",
+          "name": "Rose Gold View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": true,
+    "option_definitions": [
+      {
+        "name": "Metal Color",
+        "source": "metal_color",
+        "ui": "color",
+        "requires_media": true,
+        "values": [
+          "Yellow Gold",
+          "Rose Gold",
+          "White Gold"
+        ]
+      }
+    ],
+    "metal_color": [
+      {
+        "value": "Yellow Gold",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "default"
+      },
+      {
+        "value": "Rose Gold",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "rosegold"
+      },
+      {
+        "value": "White Gold",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "default"
+      }
+    ]
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Platinum"
+    },
+    {
+      "label": "Weight",
+      "content": "2g"
+    }
+  ]
+}

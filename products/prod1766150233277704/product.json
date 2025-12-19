@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150233277704",
+  "product_info": {
+    "name": "Vintage Traditional 54",
+    "status": "published",
+    "description": "A beautiful 18k Gold traditional. Perfect for any occasion.",
+    "category": "Bangles",
+    "subcategory": "Traditional",
+    "collections": [
+      "Festive Glow"
+    ],
+    "base_price": 45268,
+    "compare_at_price": 49692,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150233277704/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "18k Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "7g"
+    }
+  ]
+}

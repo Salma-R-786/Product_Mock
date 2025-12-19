@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150014511158",
+  "product_info": {
+    "name": "Modern Engagement 21",
+    "status": "published",
+    "description": "A beautiful Silver engagement. Perfect for any occasion.",
+    "category": "Rings",
+    "subcategory": "Engagement",
+    "collections": [
+      "Party Edit"
+    ],
+    "base_price": 80818,
+    "compare_at_price": 85662,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150014511158/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "22k Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "10g"
+    }
+  ]
+}

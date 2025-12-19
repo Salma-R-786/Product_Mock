@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150133477857",
+  "product_info": {
+    "name": "Vintage Chokers 19",
+    "status": "published",
+    "description": "A beautiful Silver chokers. Perfect for any occasion.",
+    "category": "Necklaces",
+    "subcategory": "Chokers",
+    "collections": [
+      "Wedding Collection"
+    ],
+    "base_price": 41722,
+    "compare_at_price": 42773,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150133477857/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Silver"
+    },
+    {
+      "label": "Weight",
+      "content": "4g"
+    }
+  ]
+}

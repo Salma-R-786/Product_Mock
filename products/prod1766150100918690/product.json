@@ -1,0 +1,43 @@
+{
+  "product_id": "prod1766150100918690",
+  "product_info": {
+    "name": "Elegant Chain Bracelets 12",
+    "status": "published",
+    "description": "A beautiful 22k Gold chain bracelets. Perfect for any occasion.",
+    "category": "Bracelets",
+    "subcategory": "Chain Bracelets",
+    "collections": [
+      "Summer Sparkle"
+    ],
+    "base_price": 48175,
+    "compare_at_price": 50670,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150100918690/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/C123456789/"
+      ]
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Silver"
+    },
+    {
+      "label": "Weight",
+      "content": "8g"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "product_id": "prod1766150383053180",
+  "product_info": {
+    "name": "Classic Rani Haar 1",
+    "status": "published",
+    "description": "A beautiful 18k Gold rani haar. Perfect for any occasion.",
+    "category": "Necklaces",
+    "subcategory": "Rani Haar",
+    "collections": [
+      "Office Essentials"
+    ],
+    "base_price": 83085,
+    "compare_at_price": 86142,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150383053180/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/C123456789/"
+      ]
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Platinum"
+    },
+    {
+      "label": "Weight",
+      "content": "7g"
+    }
+  ]
+}

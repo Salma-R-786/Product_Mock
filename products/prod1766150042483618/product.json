@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150042483618",
+  "product_info": {
+    "name": "Elegant Chandbali 48",
+    "status": "published",
+    "description": "A beautiful 18k Gold chandbali. Perfect for any occasion.",
+    "category": "Earrings",
+    "subcategory": "Chandbali",
+    "collections": [
+      "Party Edit"
+    ],
+    "base_price": 27197,
+    "compare_at_price": 30202,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150042483618/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Rose Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "10g"
+    }
+  ]
+}

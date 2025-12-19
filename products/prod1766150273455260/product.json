@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150273455260",
+  "product_info": {
+    "name": "Vintage Studs 38",
+    "status": "published",
+    "description": "A beautiful 18k Gold studs. Perfect for any occasion.",
+    "category": "Earrings",
+    "subcategory": "Studs",
+    "collections": [
+      "Office Essentials"
+    ],
+    "base_price": 90622,
+    "compare_at_price": 91974,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150273455260/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Silver"
+    },
+    {
+      "label": "Weight",
+      "content": "6g"
+    }
+  ]
+}

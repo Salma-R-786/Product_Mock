@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150168807118",
+  "product_info": {
+    "name": "Modern Rings 92",
+    "status": "published",
+    "description": "A beautiful 18k Gold rings. Perfect for any occasion.",
+    "category": "Nose Pins",
+    "subcategory": "Rings",
+    "collections": [
+      "Bestsellers"
+    ],
+    "base_price": 67582,
+    "compare_at_price": 72237,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150168807118/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "18k Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "4g"
+    }
+  ]
+}

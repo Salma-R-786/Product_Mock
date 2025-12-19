@@ -1,0 +1,43 @@
+{
+  "product_id": "prod1766150516080502",
+  "product_info": {
+    "name": "Elegant Traditional Heavy 67",
+    "status": "published",
+    "description": "A beautiful Silver traditional heavy. Perfect for any occasion.",
+    "category": "Anklets",
+    "subcategory": "Traditional Heavy",
+    "collections": [
+      "Minimalist Luxe"
+    ],
+    "base_price": 11126,
+    "compare_at_price": 12873,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150516080502/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/C123456789/"
+      ]
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Rose Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "8g"
+    }
+  ]
+}

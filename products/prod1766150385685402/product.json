@@ -1,0 +1,43 @@
+{
+  "product_id": "prod1766150385685402",
+  "product_info": {
+    "name": "Luxury Kadas 36",
+    "status": "published",
+    "description": "A beautiful 18k Gold kadas. Perfect for any occasion.",
+    "category": "Bangles",
+    "subcategory": "Kadas",
+    "collections": [
+      "Traditional Treasures"
+    ],
+    "base_price": 79021,
+    "compare_at_price": 81101,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150385685402/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/C123456789/"
+      ]
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Silver"
+    },
+    {
+      "label": "Weight",
+      "content": "4g"
+    }
+  ]
+}

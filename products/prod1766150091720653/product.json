@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150091720653",
+  "product_info": {
+    "name": "Luxury Simple 62",
+    "status": "published",
+    "description": "A beautiful 18k Gold simple. Perfect for any occasion.",
+    "category": "Anklets",
+    "subcategory": "Simple",
+    "collections": [
+      "Office Essentials"
+    ],
+    "base_price": 83886,
+    "compare_at_price": 85915,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150091720653/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "18k Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "3g"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "product_id": "prod1766150138407345",
+  "product_info": {
+    "name": "Luxury Jhumkas 49",
+    "status": "published",
+    "description": "A beautiful Silver jhumkas. Perfect for any occasion.",
+    "category": "Earrings",
+    "subcategory": "Jhumkas",
+    "collections": [
+      "Wedding Collection"
+    ],
+    "base_price": 77699,
+    "compare_at_price": 81475,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150138407345/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/C123456789/"
+      ]
+    },
+    "rosegold": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150138407345/images/rosegold/01.webp",
+          "name": "Rose Gold View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": true,
+    "option_definitions": [
+      {
+        "name": "Metal Color",
+        "source": "metal_color",
+        "ui": "color",
+        "requires_media": true,
+        "values": [
+          "Yellow Gold",
+          "Rose Gold",
+          "White Gold"
+        ]
+      }
+    ],
+    "metal_color": [
+      {
+        "value": "Yellow Gold",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "default"
+      },
+      {
+        "value": "Rose Gold",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "rosegold"
+      },
+      {
+        "value": "White Gold",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "default"
+      }
+    ]
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "22k Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "8g"
+    }
+  ]
+}

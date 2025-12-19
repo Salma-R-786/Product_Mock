@@ -1,0 +1,164 @@
+[
+    {
+        "id": "cat_rings",
+        "name": "Rings",
+        "subcategories": [
+            {
+                "id": "sub_engagement",
+                "name": "Engagement"
+            },
+            {
+                "id": "sub_wedding",
+                "name": "Wedding"
+            },
+            {
+                "id": "sub_solitaire",
+                "name": "Solitaire"
+            },
+            {
+                "id": "sub_cocktail",
+                "name": "Cocktail"
+            },
+            {
+                "id": "sub_adjustable",
+                "name": "Adjustable"
+            },
+            {
+                "id": "sub_promise",
+                "name": "Promise Rings"
+            }
+        ]
+    },
+    {
+        "id": "cat_earrings",
+        "name": "Earrings",
+        "subcategories": [
+            {
+                "id": "sub_studs",
+                "name": "Studs"
+            },
+            {
+                "id": "sub_jhumkas",
+                "name": "Jhumkas"
+            },
+            {
+                "id": "sub_hoops",
+                "name": "Hoops"
+            },
+            {
+                "id": "sub_drops",
+                "name": "Drops & Danglers"
+            },
+            {
+                "id": "sub_suidhaga",
+                "name": "Sui Dhaga"
+            },
+            {
+                "id": "sub_chandbali",
+                "name": "Chandbali"
+            }
+        ]
+    },
+    {
+        "id": "cat_necklaces",
+        "name": "Necklaces",
+        "subcategories": [
+            {
+                "id": "sub_chokers",
+                "name": "Chokers"
+            },
+            {
+                "id": "sub_pendants",
+                "name": "Pendants"
+            },
+            {
+                "id": "sub_ranihaar",
+                "name": "Rani Haar"
+            },
+            {
+                "id": "sub_layered",
+                "name": "Layered"
+            },
+            {
+                "id": "sub_mangalsutra",
+                "name": "Mangalsutra"
+            },
+            {
+                "id": "sub_chains",
+                "name": "Chains"
+            }
+        ]
+    },
+    {
+        "id": "cat_bracelets",
+        "name": "Bracelets",
+        "subcategories": [
+            {
+                "id": "sub_chain_bracelet",
+                "name": "Chain Bracelets"
+            },
+            {
+                "id": "sub_cuff",
+                "name": "Cuff"
+            },
+            {
+                "id": "sub_tennis",
+                "name": "Tennis Bracelets"
+            },
+            {
+                "id": "sub_charm",
+                "name": "Charm Bracelets"
+            }
+        ]
+    },
+    {
+        "id": "cat_bangles",
+        "name": "Bangles",
+        "subcategories": [
+            {
+                "id": "sub_traditional_bangles",
+                "name": "Traditional"
+            },
+            {
+                "id": "sub_modern_bangles",
+                "name": "Modern"
+            },
+            {
+                "id": "sub_kadas",
+                "name": "Kadas"
+            }
+        ]
+    },
+    {
+        "id": "cat_nosepins",
+        "name": "Nose Pins",
+        "subcategories": [
+            {
+                "id": "sub_stud_nose",
+                "name": "Studs"
+            },
+            {
+                "id": "sub_ring_nose",
+                "name": "Rings"
+            },
+            {
+                "id": "sub_septum",
+                "name": "Septum"
+            }
+        ]
+    },
+    {
+        "id": "cat_anklets",
+        "name": "Anklets",
+        "subcategories": [
+            {
+                "id": "sub_simple_anklet",
+                "name": "Simple"
+            },
+            {
+                "id": "sub_heavy_anklet",
+                "name": "Traditional Heavy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150426856800",
+  "product_info": {
+    "name": "Modern Pendants 45",
+    "status": "published",
+    "description": "A beautiful Silver pendants. Perfect for any occasion.",
+    "category": "Necklaces",
+    "subcategory": "Pendants",
+    "collections": [
+      "Gifts for Her"
+    ],
+    "base_price": 96849,
+    "compare_at_price": 100634,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150426856800/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Platinum"
+    },
+    {
+      "label": "Weight",
+      "content": "10g"
+    }
+  ]
+}

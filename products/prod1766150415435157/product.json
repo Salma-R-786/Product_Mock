@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150415435157",
+  "product_info": {
+    "name": "Modern Mangalsutra 68",
+    "status": "published",
+    "description": "A beautiful Platinum mangalsutra. Perfect for any occasion.",
+    "category": "Necklaces",
+    "subcategory": "Mangalsutra",
+    "collections": [
+      "Festive Glow"
+    ],
+    "base_price": 40376,
+    "compare_at_price": 42220,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150415435157/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "22k Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "8g"
+    }
+  ]
+}

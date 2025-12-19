@@ -1,0 +1,43 @@
+{
+  "product_id": "prod1766150311713945",
+  "product_info": {
+    "name": "Elegant Septum 18",
+    "status": "published",
+    "description": "A beautiful Silver septum. Perfect for any occasion.",
+    "category": "Nose Pins",
+    "subcategory": "Septum",
+    "collections": [
+      "Festive Glow"
+    ],
+    "base_price": 35416,
+    "compare_at_price": 39347,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150311713945/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/C123456789/"
+      ]
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Platinum"
+    },
+    {
+      "label": "Weight",
+      "content": "5g"
+    }
+  ]
+}

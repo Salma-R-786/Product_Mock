@@ -1,0 +1,89 @@
+{
+  "product_id": "prod1766150033474175",
+  "product_info": {
+    "name": "Vintage Engagement 79",
+    "status": "published",
+    "description": "A beautiful Rose Gold engagement. Perfect for any occasion.",
+    "category": "Rings",
+    "subcategory": "Engagement",
+    "collections": [
+      "Wedding Collection"
+    ],
+    "base_price": 66329,
+    "compare_at_price": 70352,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150033474175/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/C123456789/"
+      ]
+    }
+  },
+  "variant_setup": {
+    "has_variants": true,
+    "option_definitions": [
+      {
+        "name": "Ring Size",
+        "source": "ring_size",
+        "ui": "selector",
+        "requires_media": false,
+        "values": [
+          "US 5",
+          "US 6",
+          "US 7",
+          "US 8",
+          "US 9"
+        ]
+      }
+    ],
+    "ring_size": [
+      {
+        "value": "US 5",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "default"
+      },
+      {
+        "value": "US 6",
+        "price_delta": 1000,
+        "compare_delta": 0,
+        "media_key": "default"
+      },
+      {
+        "value": "US 7",
+        "price_delta": 2000,
+        "compare_delta": 0,
+        "media_key": "default"
+      },
+      {
+        "value": "US 8",
+        "price_delta": 3000,
+        "compare_delta": 0,
+        "media_key": "default"
+      },
+      {
+        "value": "US 9",
+        "price_delta": 4000,
+        "compare_delta": 0,
+        "media_key": "default"
+      }
+    ]
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Platinum"
+    },
+    {
+      "label": "Weight",
+      "content": "8g"
+    }
+  ]
+}

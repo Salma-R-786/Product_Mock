@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150083892269",
+  "product_info": {
+    "name": "Vintage Modern 33",
+    "status": "published",
+    "description": "A beautiful 22k Gold modern. Perfect for any occasion.",
+    "category": "Bangles",
+    "subcategory": "Modern",
+    "collections": [
+      "Gifts for Him"
+    ],
+    "base_price": 74225,
+    "compare_at_price": 76408,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150083892269/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Silver"
+    },
+    {
+      "label": "Weight",
+      "content": "9g"
+    }
+  ]
+}

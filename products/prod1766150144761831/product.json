@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150144761831",
+  "product_info": {
+    "name": "Modern Traditional Heavy 51",
+    "status": "published",
+    "description": "A beautiful 18k Gold traditional heavy. Perfect for any occasion.",
+    "category": "Anklets",
+    "subcategory": "Traditional Heavy",
+    "collections": [
+      "Gifts for Him"
+    ],
+    "base_price": 35907,
+    "compare_at_price": 37412,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150144761831/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "22k Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "5g"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "product_id": "prod1766150035560926",
+  "product_info": {
+    "name": "Modern Chokers 80",
+    "status": "published",
+    "description": "A beautiful Rose Gold chokers. Perfect for any occasion.",
+    "category": "Necklaces",
+    "subcategory": "Chokers",
+    "collections": [
+      "Bestsellers"
+    ],
+    "base_price": 38882,
+    "compare_at_price": 42242,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150035560926/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/C123456789/"
+      ]
+    },
+    "rosegold": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150035560926/images/rosegold/01.webp",
+          "name": "Rose Gold View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": true,
+    "option_definitions": [
+      {
+        "name": "Metal Color",
+        "source": "metal_color",
+        "ui": "color",
+        "requires_media": true,
+        "values": [
+          "Yellow Gold",
+          "Rose Gold",
+          "White Gold"
+        ]
+      }
+    ],
+    "metal_color": [
+      {
+        "value": "Yellow Gold",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "default"
+      },
+      {
+        "value": "Rose Gold",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "rosegold"
+      },
+      {
+        "value": "White Gold",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "default"
+      }
+    ]
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "18k Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "7g"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "product_id": "prod1766150128539694",
+  "product_info": {
+    "name": "Elegant Charm Bracelets 21",
+    "status": "published",
+    "description": "A beautiful 18k Gold charm bracelets. Perfect for any occasion.",
+    "category": "Bracelets",
+    "subcategory": "Charm Bracelets",
+    "collections": [
+      "Wedding Collection"
+    ],
+    "base_price": 35101,
+    "compare_at_price": 39739,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150128539694/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/C123456789/"
+      ]
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Silver"
+    },
+    {
+      "label": "Weight",
+      "content": "8g"
+    }
+  ]
+}

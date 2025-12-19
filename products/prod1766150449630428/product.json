@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150449630428",
+  "product_info": {
+    "name": "Vintage Traditional 36",
+    "status": "published",
+    "description": "A beautiful Rose Gold traditional. Perfect for any occasion.",
+    "category": "Bangles",
+    "subcategory": "Traditional",
+    "collections": [
+      "Wedding Collection"
+    ],
+    "base_price": 25891,
+    "compare_at_price": 28134,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150449630428/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Platinum"
+    },
+    {
+      "label": "Weight",
+      "content": "7g"
+    }
+  ]
+}

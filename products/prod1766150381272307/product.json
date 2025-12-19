@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150381272307",
+  "product_info": {
+    "name": "Modern Traditional Heavy 23",
+    "status": "published",
+    "description": "A beautiful Platinum traditional heavy. Perfect for any occasion.",
+    "category": "Anklets",
+    "subcategory": "Traditional Heavy",
+    "collections": [
+      "Office Essentials"
+    ],
+    "base_price": 90747,
+    "compare_at_price": 93787,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150381272307/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Silver"
+    },
+    {
+      "label": "Weight",
+      "content": "8g"
+    }
+  ]
+}

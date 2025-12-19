@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150225556694",
+  "product_info": {
+    "name": "Elegant Traditional Heavy 79",
+    "status": "published",
+    "description": "A beautiful 18k Gold traditional heavy. Perfect for any occasion.",
+    "category": "Anklets",
+    "subcategory": "Traditional Heavy",
+    "collections": [
+      "Gifts for Her"
+    ],
+    "base_price": 41854,
+    "compare_at_price": 44792,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150225556694/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "18k Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "8g"
+    }
+  ]
+}

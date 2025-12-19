@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150411515919",
+  "product_info": {
+    "name": "Elegant Septum 24",
+    "status": "published",
+    "description": "A beautiful Rose Gold septum. Perfect for any occasion.",
+    "category": "Nose Pins",
+    "subcategory": "Septum",
+    "collections": [
+      "Summer Sparkle"
+    ],
+    "base_price": 13628,
+    "compare_at_price": 15314,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150411515919/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Rose Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "2g"
+    }
+  ]
+}

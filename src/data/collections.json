@@ -1,0 +1,46 @@
+[
+    {
+        "id": "col_bestsellers",
+        "name": "Bestsellers"
+    },
+    {
+        "id": "col_gifts_her",
+        "name": "Gifts for Her"
+    },
+    {
+        "id": "col_gifts_him",
+        "name": "Gifts for Him"
+    },
+    {
+        "id": "col_under_10k",
+        "name": "Gifts Under 10k"
+    },
+    {
+        "id": "col_wedding",
+        "name": "Wedding Collection"
+    },
+    {
+        "id": "col_party",
+        "name": "Party Edit"
+    },
+    {
+        "id": "col_office",
+        "name": "Office Essentials"
+    },
+    {
+        "id": "col_minimalist",
+        "name": "Minimalist Luxe"
+    },
+    {
+        "id": "col_traditional",
+        "name": "Traditional Treasures"
+    },
+    {
+        "id": "col_summer",
+        "name": "Summer Sparkle"
+    },
+    {
+        "id": "col_festive",
+        "name": "Festive Glow"
+    }
+]

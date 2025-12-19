@@ -1,0 +1,43 @@
+{
+  "product_id": "prod1766150157857699",
+  "product_info": {
+    "name": "Luxury Chains 75",
+    "status": "published",
+    "description": "A beautiful Platinum chains. Perfect for any occasion.",
+    "category": "Necklaces",
+    "subcategory": "Chains",
+    "collections": [
+      "Festive Glow"
+    ],
+    "base_price": 45118,
+    "compare_at_price": 46316,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150157857699/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/C123456789/"
+      ]
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Rose Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "2g"
+    }
+  ]
+}

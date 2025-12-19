@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150322503408",
+  "product_info": {
+    "name": "Luxury Wedding 78",
+    "status": "published",
+    "description": "A beautiful 18k Gold wedding. Perfect for any occasion.",
+    "category": "Rings",
+    "subcategory": "Wedding",
+    "collections": [
+      "Festive Glow"
+    ],
+    "base_price": 97670,
+    "compare_at_price": 99374,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150322503408/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Silver"
+    },
+    {
+      "label": "Weight",
+      "content": "5g"
+    }
+  ]
+}

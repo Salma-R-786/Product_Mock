@@ -1,0 +1,41 @@
+{
+  "product_id": "prod1766150245346461",
+  "product_info": {
+    "name": "Elegant Chokers 61",
+    "status": "published",
+    "description": "A beautiful Rose Gold chokers. Perfect for any occasion.",
+    "category": "Necklaces",
+    "subcategory": "Chokers",
+    "collections": [
+      "Party Edit"
+    ],
+    "base_price": 52413,
+    "compare_at_price": 56701,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150245346461/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "22k Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "10g"
+    }
+  ]
+}

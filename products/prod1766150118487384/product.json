@@ -1,0 +1,87 @@
+{
+  "product_id": "prod1766150118487384",
+  "product_info": {
+    "name": "Luxury Solitaire 71",
+    "status": "published",
+    "description": "A beautiful 22k Gold solitaire. Perfect for any occasion.",
+    "category": "Rings",
+    "subcategory": "Solitaire",
+    "collections": [
+      "Office Essentials"
+    ],
+    "base_price": 85939,
+    "compare_at_price": 89457,
+    "general_size_info": "Standard sizing available"
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150118487384/images/default/01.webp",
+          "name": "Front View"
+        }
+      ],
+      "instagram": []
+    }
+  },
+  "variant_setup": {
+    "has_variants": true,
+    "option_definitions": [
+      {
+        "name": "Ring Size",
+        "source": "ring_size",
+        "ui": "selector",
+        "requires_media": false,
+        "values": [
+          "US 5",
+          "US 6",
+          "US 7",
+          "US 8",
+          "US 9"
+        ]
+      }
+    ],
+    "ring_size": [
+      {
+        "value": "US 5",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "default"
+      },
+      {
+        "value": "US 6",
+        "price_delta": 1000,
+        "compare_delta": 0,
+        "media_key": "default"
+      },
+      {
+        "value": "US 7",
+        "price_delta": 2000,
+        "compare_delta": 0,
+        "media_key": "default"
+      },
+      {
+        "value": "US 8",
+        "price_delta": 3000,
+        "compare_delta": 0,
+        "media_key": "default"
+      },
+      {
+        "value": "US 9",
+        "price_delta": 4000,
+        "compare_delta": 0,
+        "media_key": "default"
+      }
+    ]
+  },
+  "details": [
+    {
+      "label": "Material",
+      "content": "Rose Gold"
+    },
+    {
+      "label": "Weight",
+      "content": "5g"
+    }
+  ]
+}
