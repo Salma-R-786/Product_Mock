@@ -1397,21 +1397,6 @@
       "path": "products/prod1766150401898132/product.json"
     },
     {
-      "product_id": "prod1766150403795140",
-      "name": "Classic Charm Bracelets 71",
-      "status": "published",
-      "category": "Bracelets",
-      "subcategory": "Charm Bracelets",
-      "collections": [
-        "Wedding Collection"
-      ],
-      "has_variants": false,
-      "base_price": 64408,
-      "compare_at_price": 69057,
-      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150403795140/images/default/01.webp",
-      "path": "products/prod1766150403795140/product.json"
-    },
-    {
       "product_id": "prod1766150406059538",
       "name": "Vintage Chains 47",
       "status": "published",
@@ -1800,7 +1785,23 @@
       "compare_at_price": 39461,
       "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150519224644/images/default/01.webp",
       "path": "products/prod1766150519224644/product.json"
+    },
+    {
+      "product_id": "prod1766150403795140",
+      "name": "Classic Charm Bracelets 71",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Charm Bracelets",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": true,
+      "price": 64408,
+      "compare_at_price": 69057,
+      "base_price": 64408,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/Salma-R-786/Product_Mock/products/prod1766150403795140/images/default/01.webp",
+      "path": "products/prod1766150403795140/product.json"
     }
   ],
-  "generated_at": "2025-12-19T17:50:57.490Z"
+  "generated_at": "2025-12-20T07:18:11.220Z"
 }
