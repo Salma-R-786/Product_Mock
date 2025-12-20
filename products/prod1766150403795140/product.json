@@ -13,31 +13,48 @@
     "compare_at_price": 69057,
     "general_size_info": "Standard sizing available"
   },
+  "details": [
+    {
+      "label": "Material",
+      "content": "18k Gold",
+      "value": "brass"
+    },
+    {
+      "label": "Weight",
+      "content": "10g",
+      "value": "5gm"
+    }
+  ],
+  "variant_setup": {
+    "has_variants": true,
+    "option_definitions": [
+      {
+        "name": "Default",
+        "source": "default",
+        "ui": "hidden",
+        "requires_media": true,
+        "values": [
+          "Default"
+        ]
+      }
+    ],
+    "default": [
+      {
+        "value": "Default",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "default"
+      }
+    ]
+  },
   "media_groups": {
     "default": {
       "images": [
-        {
-          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150403795140/images/default/01.webp",
-          "name": "Front View"
-        }
+        "https://cdn.jsdelivr.net/gh/Salma-R-786/Product_Mock/products/prod1766150403795140/images/default/01.webp"
       ],
       "instagram": [
         "https://www.instagram.com/p/C123456789/"
       ]
     }
-  },
-  "variant_setup": {
-    "has_variants": false,
-    "option_definitions": []
-  },
-  "details": [
-    {
-      "label": "Material",
-      "content": "18k Gold"
-    },
-    {
-      "label": "Weight",
-      "content": "10g"
-    }
-  ]
+  }
 }
