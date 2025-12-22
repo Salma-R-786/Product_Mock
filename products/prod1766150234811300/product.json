@@ -3,7 +3,7 @@
   "product_info": {
     "name": "Vintage Kadas 74",
     "status": "published",
-    "description": "A beautiful 22k Gold kadas. Perfect for any occasion.",
+    "description": "A beautiful 22k Gold kadas. Perfect for any occasion. Hand Crafted",
     "category": "Bangles",
     "subcategory": "Kadas",
     "collections": [
@@ -13,28 +13,18 @@
     "compare_at_price": 86407,
     "general_size_info": "Standard sizing available"
   },
-  "media_groups": {
-    "default": {
-      "images": [
-        {
-          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150234811300/images/default/01.webp",
-          "name": "Front View"
-        }
-      ],
-      "instagram": [
-        "https://www.instagram.com/p/C123456789/"
-      ]
+  "details": [
+    {
+      "label": "Material",
+      "content": "18k Gold",
+      "value": "Gold"
     },
-    "rosegold": {
-      "images": [
-        {
-          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150234811300/images/rosegold/01.webp",
-          "name": "Rose Gold View"
-        }
-      ],
-      "instagram": []
+    {
+      "label": "Weight",
+      "content": "10g",
+      "value": "Hero"
     }
-  },
+  ],
   "variant_setup": {
     "has_variants": true,
     "option_definitions": [
@@ -71,14 +61,21 @@
       }
     ]
   },
-  "details": [
-    {
-      "label": "Material",
-      "content": "18k Gold"
+  "media_groups": {
+    "default": {
+      "images": [
+        "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150234811300/images/default/01.webp",
+        "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150234811300/images/default/Screenshot from 2025-12-22 13-35-37.webp"
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/C123456789/"
+      ]
     },
-    {
-      "label": "Weight",
-      "content": "10g"
+    "rosegold": {
+      "images": [
+        "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150234811300/images/rosegold/01.webp"
+      ],
+      "instagram": []
     }
-  ]
+  }
 }
