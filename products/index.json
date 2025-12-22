@@ -1757,22 +1757,6 @@
       "path": "products/prod1766150519224644/product.json"
     },
     {
-      "product_id": "prod1766150403795140",
-      "name": "Classic Charm Bracelets 71",
-      "status": "published",
-      "category": "Bracelets",
-      "subcategory": "Charm Bracelets",
-      "collections": [
-        "Wedding Collection"
-      ],
-      "has_variants": true,
-      "price": 64408,
-      "compare_at_price": 69057,
-      "base_price": 64408,
-      "thumbnail": "https://cdn.jsdelivr.net/gh/Salma-R-786/Product_Mock/products/prod1766150403795140/images/default/01.webp",
-      "path": "products/prod1766150403795140/product.json"
-    },
-    {
       "product_id": "prod1766150234811300",
       "name": "Vintage Kadas 74",
       "status": "published",
@@ -1803,7 +1787,23 @@
       "base_price": 24382,
       "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150006450899/images/default/01.webp",
       "path": "products/prod1766150006450899/product.json"
+    },
+    {
+      "product_id": "prod1766150403795140",
+      "name": "Classic Charm Bracelets 71",
+      "status": "published",
+      "category": "Bracelets",
+      "subcategory": "Charm Bracelets",
+      "collections": [
+        "Wedding Collection"
+      ],
+      "has_variants": true,
+      "price": 64408,
+      "compare_at_price": 70000,
+      "base_price": 64408,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150403795140/images/default/01.webp",
+      "path": "products/prod1766150403795140/product.json"
     }
   ],
-  "generated_at": "2025-12-22T10:34:48.081Z"
+  "generated_at": "2025-12-22T10:58:07.559Z"
 }
