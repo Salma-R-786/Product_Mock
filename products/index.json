@@ -722,21 +722,6 @@
       "path": "products/prod1766150233277704/product.json"
     },
     {
-      "product_id": "prod1766150234811300",
-      "name": "Vintage Kadas 74",
-      "status": "published",
-      "category": "Bangles",
-      "subcategory": "Kadas",
-      "collections": [
-        "Traditional Treasures"
-      ],
-      "has_variants": true,
-      "base_price": 81638,
-      "compare_at_price": 86407,
-      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150234811300/images/default/01.webp",
-      "path": "products/prod1766150234811300/product.json"
-    },
-    {
       "product_id": "prod1766150239151621",
       "name": "Vintage Traditional 96",
       "status": "published",
@@ -1801,7 +1786,23 @@
       "base_price": 64408,
       "thumbnail": "https://cdn.jsdelivr.net/gh/Salma-R-786/Product_Mock/products/prod1766150403795140/images/default/01.webp",
       "path": "products/prod1766150403795140/product.json"
+    },
+    {
+      "product_id": "prod1766150234811300",
+      "name": "Vintage Kadas 74",
+      "status": "published",
+      "category": "Bangles",
+      "subcategory": "Kadas",
+      "collections": [
+        "Traditional Treasures"
+      ],
+      "has_variants": true,
+      "price": 81638,
+      "compare_at_price": 86407,
+      "base_price": 81638,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150234811300/images/default/01.webp",
+      "path": "products/prod1766150234811300/product.json"
     }
   ],
-  "generated_at": "2025-12-20T07:18:11.220Z"
+  "generated_at": "2025-12-22T08:15:08.150Z"
 }
