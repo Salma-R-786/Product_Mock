@@ -10,29 +10,21 @@
       "Bestsellers"
     ],
     "base_price": 24382,
-    "compare_at_price": 26873,
+    "compare_at_price": 30000,
     "general_size_info": "Standard sizing available"
   },
-  "media_groups": {
-    "default": {
-      "images": [
-        {
-          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150006450899/images/default/01.webp",
-          "name": "Front View"
-        }
-      ],
-      "instagram": []
+  "details": [
+    {
+      "label": "Material",
+      "content": "18k Gold",
+      "value": "gold"
     },
-    "rosegold": {
-      "images": [
-        {
-          "url": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150006450899/images/rosegold/01.webp",
-          "name": "Rose Gold View"
-        }
-      ],
-      "instagram": []
+    {
+      "label": "Weight",
+      "content": "5g",
+      "value": "20"
     }
-  },
+  ],
   "variant_setup": {
     "has_variants": true,
     "option_definitions": [
@@ -69,14 +61,18 @@
       }
     ]
   },
-  "details": [
-    {
-      "label": "Material",
-      "content": "18k Gold"
+  "media_groups": {
+    "default": {
+      "images": [
+        "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150006450899/images/default/01.webp"
+      ],
+      "instagram": []
     },
-    {
-      "label": "Weight",
-      "content": "5g"
+    "rosegold": {
+      "images": [
+        "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150006450899/images/rosegold/01.webp"
+      ],
+      "instagram": []
     }
-  ]
+  }
 }
