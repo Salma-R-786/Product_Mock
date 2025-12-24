@@ -10,7 +10,7 @@
       "Wedding Collection"
     ],
     "base_price": 64408,
-    "compare_at_price": "75000",
+    "compare_at_price": 75000,
     "general_size_info": "Standard sizing available"
   },
   "details": [
@@ -23,6 +23,10 @@
       "label": "Weight",
       "content": "10g",
       "value": "5gm"
+    },
+    {
+      "label": "",
+      "value": ""
     }
   ],
   "variant_setup": {
@@ -50,7 +54,7 @@
   "media_groups": {
     "default": {
       "images": [
-        "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Mock/products/prod1766150403795140/images/default/01.webp"
+        "https://cdn.jsdelivr.net/gh/Salma-R-786/Product_Mock/products/prod1766150403795140/images/default/01.webp"
       ],
       "instagram": [
         "https://www.instagram.com/p/C123456789/"
