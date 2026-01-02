@@ -1,1 +1,25 @@
-{}
+{
+  "name": "AM jewellers",
+  "location": {
+    "latitude": 22.719915,
+    "longitude": 88.261672
+  },
+  "address": {
+    "plus_code": "P796+WMG",
+    "locality": "Janai",
+    "district": "Hooghly",
+    "state": "West Bengal",
+    "postal_code": "712304",
+    "country": "India",
+    "country_code": "IN"
+  },
+  "map_reference": {
+    "provider": "google_maps",
+    "listed_on_google_maps": false
+  },
+  "metadata": {
+    "captured_at": "2025-12-30T14:57:00+05:30",
+    "timezone": "Asia/Kolkata",
+    "source": "manual_pin_drop"
+  }
+}
